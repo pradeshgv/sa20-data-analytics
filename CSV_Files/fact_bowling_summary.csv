@@ -1,0 +1,390 @@
+match,bowlingTeam,bowlerName,overs,maiden,runs,wickets,economy,0s,4s,6s,wides,noBalls,match_id
+Capitals Vs MI Cape Town,MI Cape Town,George Linde,3,0,35,0,11.66,5,5,1,0,0,20
+Capitals Vs MI Cape Town,MI Cape Town,Kagiso Rabada,4,0,49,0,12.25,6,3,3,2,0,20
+Capitals Vs MI Cape Town,MI Cape Town,Jofra Archer,4,0,37,3,9.25,11,3,2,3,0,20
+Capitals Vs MI Cape Town,MI Cape Town,Sam Curran,1,0,15,0,15,2,2,1,0,0,20
+Capitals Vs MI Cape Town,MI Cape Town,Rashid Khan,4,0,16,3,4,11,1,0,0,0,20
+Capitals Vs MI Cape Town,MI Cape Town,Odean Smith,4,0,27,2,6.75,11,1,1,0,1,20
+Capitals Vs MI Cape Town,Capitals,Eathan Bosch,4,0,34,1,8.5,10,4,1,1,0,20
+Capitals Vs MI Cape Town,Capitals,Wayne Parnell,3.1,0,14,3,4.42,11,2,0,0,0,20
+Capitals Vs MI Cape Town,Capitals,Anrich Nortje,4,0,22,3,5.5,13,2,1,0,0,20
+Capitals Vs MI Cape Town,Capitals,Adil Rashid,4,0,37,2,9.25,11,2,3,2,0,20
+Capitals Vs MI Cape Town,Capitals,James Neesham,2,0,11,0,5.5,4,0,0,1,0,20
+Capitals Vs MI Cape Town,Capitals,Will Jacks,1,0,9,1,9,1,0,0,1,0,20
+Capitals Vs Royals,Royals,Bjorn Fortuin,4,0,33,0,8.25,8,5,0,2,0,30
+Capitals Vs Royals,Royals,Codi Yusuf,4,0,45,1,11.25,4,3,2,2,0,30
+Capitals Vs Royals,Royals,Lungi Ngidi,4,0,39,2,9.75,9,4,2,2,0,30
+Capitals Vs Royals,Royals,Evan Jones,4,0,57,0,14.25,3,5,3,1,1,30
+Capitals Vs Royals,Royals,Andile Phehlukwayo,4,0,43,1,10.75,3,1,3,2,0,30
+Capitals Vs Royals,Capitals,Eathan Bosch,4,0,31,1,7.75,13,3,2,0,0,30
+Capitals Vs Royals,Capitals,Senuran Muthusamy,2,0,23,0,11.5,1,2,1,1,0,30
+Capitals Vs Royals,Capitals,Anrich Nortje,4,0,14,1,3.5,12,0,0,0,0,30
+Capitals Vs Royals,Capitals,Migael Pretorius,3,0,21,2,7,7,1,1,0,0,30
+Capitals Vs Royals,Capitals,Adil Rashid,3,0,18,2,6,8,2,0,0,0,30
+Capitals Vs Royals,Capitals,Colin Ingram,2,0,21,0,10.5,6,1,2,1,0,30
+Capitals Vs Royals,Capitals,James Neesham,2,0,28,3,14,4,3,2,0,0,30
+Super Giants Vs Capitals,Capitals,Josh Little,4,0,39,1,9.75,11,5,2,0,0,28
+Super Giants Vs Capitals,Capitals,Eathan Bosch,3,0,38,0,12.66,3,4,2,0,0,28
+Super Giants Vs Capitals,Capitals,Daryn Dupavillon,3,0,40,0,13.33,6,4,3,0,0,28
+Super Giants Vs Capitals,Capitals,Migael Pretorius,4,0,62,2,15.5,5,5,5,1,0,28
+Super Giants Vs Capitals,Capitals,James Neesham,4,0,41,1,10.25,8,4,2,3,0,28
+Super Giants Vs Capitals,Capitals,Senuran Muthusamy,2,0,29,0,14.5,1,4,1,1,0,28
+Super Giants Vs Capitals,Super Giants,David Willey,1,0,7,0,7,4,0,1,0,0,28
+Super Giants Vs Capitals,Super Giants,Reece Topley,4,0,21,1,5.25,15,2,1,1,0,28
+Super Giants Vs Capitals,Super Giants,Junior Dala,4,0,33,3,8.25,12,3,2,1,0,28
+Super Giants Vs Capitals,Super Giants,Dwaine Pretorius,2,0,20,2,10,5,2,1,1,0,28
+Super Giants Vs Capitals,Super Giants,Wiaan Mulder,2,0,17,2,8.5,4,0,1,2,0,28
+Super Giants Vs Capitals,Super Giants,Keemo Paul,0.5,0,4,1,4.8,4,1,0,0,0,28
+Eastern Cape Vs Super Giants,Super Giants,Kyle Mayers,1,0,9,0,9,3,2,0,0,0,19
+Eastern Cape Vs Super Giants,Super Giants,Akila Dananjaya,3,0,19,0,6.33,10,2,1,0,0,19
+Eastern Cape Vs Super Giants,Super Giants,Keshav Maharaj,3,0,37,0,12.33,4,2,3,1,0,19
+Eastern Cape Vs Super Giants,Super Giants,Prenelan Subrayen,3,0,28,0,9.33,5,4,0,0,0,19
+Eastern Cape Vs Super Giants,Super Giants,Dwaine Pretorius,3,0,36,1,12,5,4,2,0,0,19
+Eastern Cape Vs Super Giants,Super Giants,Jason Holder,4,0,41,0,10.25,7,5,1,1,0,19
+Eastern Cape Vs Super Giants,Super Giants,Wiaan Mulder,3,0,36,0,12,4,4,1,1,1,19
+Eastern Cape Vs Super Giants,Eastern Cape,JJ Smuts,2.4,0,14,1,5.25,8,2,0,0,0,19
+Eastern Cape Vs Super Giants,Eastern Cape,Aiden Markram,3,1,11,1,3.66,11,1,0,0,0,19
+Eastern Cape Vs Super Giants,Eastern Cape,Sisanda Magala,1,0,15,0,15,2,1,1,0,0,19
+Eastern Cape Vs Super Giants,Eastern Cape,Marco Jansen,1,0,5,1,5,4,1,0,0,0,19
+Eastern Cape Vs Super Giants,Eastern Cape,Roelof van der Merwe,4,0,20,6,5,15,0,1,1,0,19
+Eastern Cape Vs Super Giants,Eastern Cape,Mason Crane,3,0,21,1,7,7,0,2,0,0,19
+Royals Vs Eastern Cape,Eastern Cape,Ayabulela Gqamane,1,0,12,0,12,1,2,0,0,0,14
+Royals Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,15,1,3.75,10,0,0,0,0,14
+Royals Vs Eastern Cape,Eastern Cape,Aiden Markram,4,0,21,2,5.25,11,2,0,0,0,14
+Royals Vs Eastern Cape,Eastern Cape,Marco Jansen,3,0,19,0,6.33,9,1,0,1,0,14
+Royals Vs Eastern Cape,Eastern Cape,Roelof van der Merwe,4,0,21,2,5.25,5,0,0,0,0,14
+Royals Vs Eastern Cape,Eastern Cape,Brydon Carse,4,0,29,2,7.25,8,2,1,1,0,14
+Royals Vs Eastern Cape,Royals,Bjorn Fortuin,4,1,20,3,5,14,3,0,0,0,14
+Royals Vs Eastern Cape,Royals,Lungi Ngidi,4,0,31,2,7.75,13,4,1,3,0,14
+Royals Vs Eastern Cape,Royals,Codi Yusuf,3.2,0,24,0,7.2,6,1,1,0,0,14
+Royals Vs Eastern Cape,Royals,Tabraiz Shamsi,4,0,22,0,5.5,7,1,0,0,0,14
+Royals Vs Eastern Cape,Royals,Evan Jones,3,0,32,0,10.66,5,0,3,1,0,14
+Capitals Vs Royals,Royals,Lungi Ngidi,4,0,40,0,10,11,8,0,3,0,31
+Capitals Vs Royals,Royals,Bjorn Fortuin,4,0,24,1,6,11,1,1,1,0,31
+Capitals Vs Royals,Royals,Andile Phehlukwayo,4,0,29,3,7.25,8,2,1,0,0,31
+Capitals Vs Royals,Royals,Tabraiz Shamsi,4,0,19,2,4.75,11,1,0,1,0,31
+Capitals Vs Royals,Royals,Paul Stirling,1,0,14,0,14,1,1,1,0,1,31
+Capitals Vs Royals,Royals,Evan Jones,3,1,22,1,7.33,10,2,1,3,0,31
+Capitals Vs Royals,Capitals,Eathan Bosch,4,0,22,2,5.5,11,2,0,2,0,31
+Capitals Vs Royals,Capitals,Senuran Muthusamy,1,0,13,0,13,1,1,1,0,0,31
+Capitals Vs Royals,Capitals,Anrich Nortje,4,1,29,2,7.25,15,5,1,0,0,31
+Capitals Vs Royals,Capitals,Migael Pretorius,3,0,21,1,7,9,1,1,0,0,31
+Capitals Vs Royals,Capitals,Adil Rashid,3,0,15,2,5,10,2,0,1,0,31
+Capitals Vs Royals,Capitals,James Neesham,3,0,19,2,6.33,10,3,0,1,0,31
+Capitals Vs Royals,Capitals,Rilee Rossouw,1,0,3,1,3,5,0,0,2,0,31
+Super Kings Vs Royals,Royals,Bjorn Fortuin,4,0,16,3,4,11,1,0,0,0,4
+Super Kings Vs Royals,Royals,Lungi Ngidi,4,0,13,1,3.25,18,2,0,0,0,4
+Super Kings Vs Royals,Royals,Evan Jones,2.2,0,21,3,9,5,1,1,2,0,4
+Super Kings Vs Royals,Royals,Tabraiz Shamsi,1,0,4,1,4,3,0,0,0,0,4
+Super Kings Vs Royals,Royals,Ferisco Adams,3,0,14,2,4.66,12,2,0,1,0,4
+Super Kings Vs Royals,Royals,Wihan Lubbe,3,0,12,0,4,8,0,0,0,0,4
+Super Kings Vs Royals,Super Kings,George Garton,2,0,15,1,7.5,7,3,0,0,0,4
+Super Kings Vs Royals,Super Kings,Alzarri Joseph,3,0,14,0,4.66,10,1,0,0,0,4
+Super Kings Vs Royals,Super Kings,Lizaad Williams,2,0,23,0,11.5,3,4,0,0,1,4
+Super Kings Vs Royals,Super Kings,Romario Shepherd,1,0,10,1,10,2,2,0,0,0,4
+Super Kings Vs Royals,Super Kings,Aaron Phangiso,2,0,15,1,7.5,5,0,1,0,0,4
+Super Kings Vs Royals,Super Kings,Lewis Gregory,0.3,0,5,0,10,1,1,0,0,0,4
+Eastern Cape Vs Super Kings,Super Kings,Alzarri Joseph,3,0,28,0,9.33,10,2,2,1,2,17
+Eastern Cape Vs Super Kings,Super Kings,Maheesh Theekshana,4,0,27,0,6.75,6,2,0,0,0,17
+Eastern Cape Vs Super Kings,Super Kings,Gerald Coetzee,3.4,0,24,4,6.54,9,1,1,0,0,17
+Eastern Cape Vs Super Kings,Super Kings,Romario Shepherd,3,0,20,1,6.66,6,2,0,0,0,17
+Eastern Cape Vs Super Kings,Super Kings,Aaron Phangiso,4,0,20,4,5,12,2,0,0,0,17
+Eastern Cape Vs Super Kings,Super Kings,Neil Brand,1,0,7,0,7,2,1,0,0,0,17
+Eastern Cape Vs Super Kings,Eastern Cape,Sisanda Magala,3.4,0,29,1,7.9,8,4,0,0,1,17
+Eastern Cape Vs Super Kings,Eastern Cape,Marco Jansen,3,0,25,0,8.33,8,3,0,1,1,17
+Eastern Cape Vs Super Kings,Eastern Cape,Brydon Carse,1,0,6,0,6,3,1,0,0,0,17
+Eastern Cape Vs Super Kings,Eastern Cape,James Fuller,1,0,16,0,16,0,3,0,1,0,17
+Eastern Cape Vs Super Kings,Eastern Cape,Roelof van der Merwe,4,0,16,2,4,10,0,0,1,0,17
+Eastern Cape Vs Super Kings,Eastern Cape,Aiden Markram,4,0,28,0,7,7,2,0,1,0,17
+Eastern Cape Vs Super Kings,Eastern Cape,JJ Smuts,3,0,8,1,2.66,10,0,0,0,0,17
+Royals Vs Info,Info,Nandre Burger,3,0,26,1,8.66,8,1,2,1,0,
+Royals Vs Info,Info,Kyle Simmonds,2,0,20,0,10,6,3,1,0,0,
+Royals Vs Info,Info,Gerald Coetzee,2,0,24,1,12,5,2,2,0,0,
+Royals Vs Info,Info,Maheesh Theekshana,3,0,16,0,5.33,11,3,0,0,0,
+Royals Vs Info,Info,Romario Shepherd,3,0,30,1,10,7,3,1,1,0,
+Royals Vs Info,Info,Donovan Ferreira,2,0,5,1,2.5,7,0,0,0,0,
+Royals Vs Super Giants,Super Giants,Kyle Mayers,1,0,1,0,1,5,0,0,0,0,10
+Royals Vs Super Giants,Super Giants,Reece Topley,4,0,43,1,10.75,9,2,3,5,0,10
+Royals Vs Super Giants,Super Giants,Hardus Viljoen,4,0,30,1,7.5,6,3,0,1,0,10
+Royals Vs Super Giants,Super Giants,Dwaine Pretorius,4,0,35,2,8.75,9,2,2,1,0,10
+Royals Vs Super Giants,Super Giants,Keshav Maharaj,3,0,27,1,9,6,2,1,0,0,10
+Royals Vs Super Giants,Super Giants,Prenelan Subrayen,4,0,24,1,6,8,1,0,0,0,10
+Royals Vs Super Giants,Royals,Bjorn Fortuin,4,0,14,3,3.5,15,1,0,0,0,10
+Royals Vs Super Giants,Royals,Wihan Lubbe,1,0,13,0,13,1,1,1,0,0,10
+Royals Vs Super Giants,Royals,Lungi Ngidi,4,0,33,0,8.25,8,2,1,3,0,10
+Royals Vs Super Giants,Royals,Tabraiz Shamsi,4,0,40,1,10,5,3,2,0,0,10
+Royals Vs Super Giants,Royals,Ferisco Adams,3,0,25,0,8.33,5,3,0,0,0,10
+Royals Vs Super Giants,Royals,Evan Jones,4,0,32,4,8,7,1,1,5,0,10
+MI Cape Town Vs Eastern Cape,Eastern Cape,Marco Jansen,4,0,29,0,7.25,11,4,0,1,0,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,49,1,12.25,6,4,3,0,0,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,Brydon Carse,2,0,24,0,12,3,1,2,0,0,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,Roelof van der Merwe,4,0,21,2,5.25,12,2,0,1,0,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,Aiden Markram,3,0,26,1,8.66,6,2,1,1,0,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,Ottniel Baartman,3,0,21,2,7,6,3,0,0,0,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,Sam Curran,3.3,0,40,1,11.42,5,6,0,0,2,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,Jofra Archer,4,0,18,1,4.5,11,0,0,3,0,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,Kagiso Rabada,4,0,34,3,8.5,14,1,3,3,0,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,George Linde,3,0,20,0,6.66,4,1,0,1,0,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,Rashid Khan,4,0,53,1,13.25,9,1,7,0,0,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,Odean Smith,1,0,7,0,7,1,0,0,1,0,12
+Super Kings Vs Capitals,Capitals,Eathan Bosch,3,0,12,3,4,13,2,0,0,0,11
+Super Kings Vs Capitals,Capitals,Wayne Parnell,3,0,39,1,13,5,5,2,1,0,11
+Super Kings Vs Capitals,Capitals,Anrich Nortje,4,0,26,2,6.5,13,2,1,2,0,11
+Super Kings Vs Capitals,Capitals,Adil Rashid,4,0,38,0,9.5,7,5,1,0,0,11
+Super Kings Vs Capitals,Capitals,Migael Pretorius,3,0,22,0,7.33,8,1,1,0,0,11
+Super Kings Vs Capitals,Capitals,James Neesham,2,0,17,0,8.5,4,3,0,0,0,11
+Super Kings Vs Capitals,Capitals,Will Jacks,1,0,11,0,11,1,0,1,0,0,11
+Super Kings Vs Capitals,Super Kings,Alzarri Joseph,4,0,34,2,8.5,11,4,1,1,0,11
+Super Kings Vs Capitals,Super Kings,Gerald Coetzee,4,0,31,1,7.75,11,3,1,4,0,11
+Super Kings Vs Capitals,Super Kings,Maheesh Theekshana,4,0,37,0,9.25,7,4,1,1,0,11
+Super Kings Vs Capitals,Super Kings,Aaron Phangiso,4,0,32,4,8,9,0,3,0,0,11
+Super Kings Vs Capitals,Super Kings,Romario Shepherd,4,0,28,2,7,10,4,0,0,0,11
+Royals Vs MI Cape Town,MI Cape Town,George Linde,2,0,17,0,8.5,5,3,0,1,0,1
+Royals Vs MI Cape Town,MI Cape Town,Sam Curran,3,0,23,0,7.66,6,0,2,0,0,1
+Royals Vs MI Cape Town,MI Cape Town,Jofra Archer,4,1,27,3,6.75,12,2,1,0,1,1
+Royals Vs MI Cape Town,MI Cape Town,Rashid Khan,4,0,28,0,7,7,3,0,0,0,1
+Royals Vs MI Cape Town,MI Cape Town,Duan Jansen,3,0,16,1,5.33,8,1,0,2,0,1
+Royals Vs MI Cape Town,MI Cape Town,Olly Stone,4,0,31,2,7.75,12,5,0,3,0,1
+Royals Vs MI Cape Town,Royals,Codi Yusuf,3,0,33,1,11,7,4,2,0,0,1
+Royals Vs MI Cape Town,Royals,Bjorn Fortuin,3.3,0,23,0,6.57,6,1,1,0,0,1
+Royals Vs MI Cape Town,Royals,Ramon Simmonds,3,0,32,1,10.66,8,4,2,0,0,1
+Royals Vs MI Cape Town,Royals,Ferisco Adams,3,0,22,0,7.33,7,0,2,0,0,1
+Royals Vs MI Cape Town,Royals,Tabraiz Shamsi,3,0,31,0,10.33,2,1,2,1,0,1
+Capitals Vs Royals,Royals,Bjorn Fortuin,4,0,32,1,8,9,4,1,0,0,18
+Capitals Vs Royals,Royals,Lungi Ngidi,4,0,19,1,4.75,11,1,0,2,0,18
+Capitals Vs Royals,Royals,Evan Jones,3,0,25,1,8.33,8,2,1,2,1,18
+Capitals Vs Royals,Royals,Tabraiz Shamsi,4,0,29,1,7.25,6,1,0,1,0,18
+Capitals Vs Royals,Royals,Ferisco Adams,4,0,38,2,9.5,6,5,0,1,0,18
+Capitals Vs Royals,Royals,Wihan Lubbe,1,0,13,0,13,0,2,0,0,0,18
+Capitals Vs Royals,Capitals,Wayne Parnell,3,0,24,0,8,6,3,0,0,0,18
+Capitals Vs Royals,Capitals,Eathan Bosch,3,0,26,1,8.66,6,2,1,1,0,18
+Capitals Vs Royals,Capitals,Anrich Nortje,3.4,0,34,0,9.27,8,6,0,0,0,18
+Capitals Vs Royals,Capitals,Adil Rashid,4,0,26,1,6.5,8,2,0,1,0,18
+Capitals Vs Royals,Capitals,Senuran Muthusamy,3,0,23,0,7.66,6,3,0,1,0,18
+Capitals Vs Royals,Capitals,James Neesham,2,0,17,0,8.5,3,1,0,2,0,18
+Capitals Vs Royals,Capitals,Will Jacks,1,0,7,2,7,2,1,0,0,0,18
+Super Giants Vs Royals,Royals,Imran Manack,2,0,20,0,10,6,3,0,1,0,8
+Super Giants Vs Royals,Royals,Lungi Ngidi,4,0,33,2,8.25,10,3,1,1,0,8
+Super Giants Vs Royals,Royals,Wihan Lubbe,2,0,18,0,9,4,0,2,0,0,8
+Super Giants Vs Royals,Royals,Ferisco Adams,4,0,63,0,15.75,3,3,6,1,0,8
+Super Giants Vs Royals,Royals,Evan Jones,4,0,33,2,8.25,9,3,1,3,0,8
+Super Giants Vs Royals,Royals,Bjorn Fortuin,4,0,46,0,11.5,5,4,3,0,0,8
+Super Giants Vs Royals,Super Giants,Kyle Mayers,1,0,3,0,3,3,0,0,0,0,8
+Super Giants Vs Royals,Super Giants,Keshav Maharaj,1,0,12,0,12,3,1,1,0,0,8
+Super Giants Vs Royals,Super Giants,Reece Topley,4,0,34,3,8.5,8,6,0,0,0,8
+Super Giants Vs Royals,Super Giants,Jason Holder,4,0,49,0,12.25,7,6,2,1,1,8
+Super Giants Vs Royals,Super Giants,Dwaine Pretorius,4,0,34,2,8.5,7,0,2,5,0,8
+Super Giants Vs Royals,Super Giants,Prenelan Subrayen,2,0,10,1,5,3,0,0,0,0,8
+Super Giants Vs Royals,Super Giants,Wiaan Mulder,4,0,41,1,10.25,5,0,3,1,1,8
+Super Kings Vs Eastern Cape,Eastern Cape,JJ Smuts,4,0,30,0,7.5,11,3,1,1,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,Marco Jansen,4,0,31,1,7.75,6,2,1,0,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,James Fuller,2,0,18,0,9,4,3,0,1,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,24,2,6,9,1,0,0,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,Roelof van der Merwe,3,0,28,0,9.33,4,1,2,0,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,Brydon Carse,2,0,21,1,10.5,4,3,0,0,0,27
+Super Kings Vs Eastern Cape,Eastern Cape,Aiden Markram,1,0,7,2,7,3,1,0,0,0,27
+Super Kings Vs Eastern Cape,Super Kings,Nandre Burger,4,0,21,0,5.25,14,2,0,1,0,27
+Super Kings Vs Eastern Cape,Super Kings,Maheesh Theekshana,4,0,31,2,7.75,11,2,2,0,0,27
+Super Kings Vs Eastern Cape,Super Kings,Gerald Coetzee,2,1,13,2,6.5,7,1,0,2,0,27
+Super Kings Vs Eastern Cape,Super Kings,Romario Shepherd,4,0,24,2,6,12,1,1,2,0,27
+Super Kings Vs Eastern Cape,Super Kings,Donovan Ferreira,2,0,18,0,9,1,2,0,0,0,27
+Super Kings Vs Eastern Cape,Super Kings,Kyle Simmonds,4,0,23,3,5.75,7,0,1,0,0,27
+Super Kings Vs Super Giants,Super Giants,Kyle Mayers,1,0,3,0,3,3,0,0,0,0,2
+Super Kings Vs Super Giants,Super Giants,Keshav Maharaj,4,0,23,1,5.75,8,2,0,0,0,2
+Super Kings Vs Super Giants,Super Giants,Dwaine Pretorius,4,0,47,1,11.75,9,6,2,3,0,2
+Super Kings Vs Super Giants,Super Giants,Akila Dananjaya,4,0,39,1,9.75,6,3,2,0,0,2
+Super Kings Vs Super Giants,Super Giants,Prenelan Subrayen,3,0,26,2,8.66,6,2,1,0,0,2
+Super Kings Vs Super Giants,Super Giants,Keemo Paul,2,0,28,0,14,4,2,2,2,0,2
+Super Kings Vs Super Giants,Super Giants,Jason Holder,2,0,23,1,11.5,3,1,2,1,0,2
+Super Kings Vs Super Giants,Super Kings,George Garton,1,0,12,0,12,2,1,1,0,0,2
+Super Kings Vs Super Giants,Super Kings,Alzarri Joseph,4,0,30,2,7.5,10,1,2,0,1,2
+Super Kings Vs Super Giants,Super Kings,Reeza Hendricks,4,0,14,0,3.5,10,0,0,0,0,2
+Super Kings Vs Super Giants,Super Kings,Romario Shepherd,1,0,9,0,9,3,2,0,0,0,2
+Super Kings Vs Super Giants,Super Kings,Malusi Siboto,2,0,39,1,19.5,2,0,5,3,1,2
+Super Kings Vs Super Giants,Super Kings,Donovan Ferreira,4,0,28,1,7,5,3,0,0,0,2
+Super Kings Vs Super Giants,Super Kings,Aaron Phangiso,4,0,37,1,9.25,6,1,3,0,0,2
+MI Cape Town Vs Royals,Royals,Bjorn Fortuin,4,0,22,2,5.5,11,3,0,0,0,16
+MI Cape Town Vs Royals,Royals,Wihan Lubbe,2,0,9,0,4.5,4,0,0,0,0,16
+MI Cape Town Vs Royals,Royals,Lungi Ngidi,4,0,29,2,7.25,10,2,1,1,0,16
+MI Cape Town Vs Royals,Royals,Ferisco Adams,4,0,31,2,7.75,6,3,0,0,0,16
+MI Cape Town Vs Royals,Royals,Tabraiz Shamsi,4,0,27,2,6.75,9,2,1,0,0,16
+MI Cape Town Vs Royals,Royals,Evan Jones,2,0,22,0,11,3,3,0,2,0,16
+MI Cape Town Vs Royals,MI Cape Town,George Linde,4,0,23,2,5.75,14,2,0,1,0,16
+MI Cape Town Vs Royals,MI Cape Town,Kagiso Rabada,4,0,27,2,6.75,7,2,0,1,0,16
+MI Cape Town Vs Royals,MI Cape Town,Jofra Archer,4,0,31,1,7.75,11,5,0,2,0,16
+MI Cape Town Vs Royals,MI Cape Town,Rashid Khan,4,0,16,1,4,8,0,0,0,0,16
+MI Cape Town Vs Royals,MI Cape Town,Odean Smith,2,0,16,0,8,3,1,0,0,0,16
+MI Cape Town Vs Royals,MI Cape Town,Sam Curran,2,0,15,0,7.5,3,2,0,0,0,16
+Capitals Vs Eastern Cape,Eastern Cape,Sisanda Magala,3,0,30,2,10,4,4,0,1,1,33
+Capitals Vs Eastern Cape,Eastern Cape,Marco Jansen,3.3,0,22,1,6.28,14,2,1,2,0,33
+Capitals Vs Eastern Cape,Eastern Cape,Roelof van der Merwe,4,0,31,4,7.75,9,5,0,0,0,33
+Capitals Vs Eastern Cape,Eastern Cape,Ottniel Baartman,3,0,22,2,7.33,7,1,1,1,0,33
+Capitals Vs Eastern Cape,Eastern Cape,Aiden Markram,4,0,17,1,4.25,11,1,0,0,0,33
+Capitals Vs Eastern Cape,Eastern Cape,Brydon Carse,2,0,10,0,5,7,1,0,1,0,33
+Capitals Vs Eastern Cape,Capitals,Wayne Parnell,1,0,9,0,9,4,2,0,1,0,33
+Capitals Vs Eastern Cape,Capitals,Eathan Bosch,2,0,30,1,15,4,3,2,0,0,33
+Capitals Vs Eastern Cape,Capitals,Migael Pretorius,2,0,33,0,16.5,3,3,3,0,0,33
+Capitals Vs Eastern Cape,Capitals,Anrich Nortje,4,0,21,2,5.25,17,2,1,1,1,33
+Capitals Vs Eastern Cape,Capitals,Adil Rashid,4,0,13,1,3.25,13,0,0,0,0,33
+Capitals Vs Eastern Cape,Capitals,Colin Ingram,2,0,16,1,8,4,2,0,0,0,33
+Capitals Vs Eastern Cape,Capitals,James Neesham,1.2,0,14,1,10.5,4,1,1,1,0,33
+MI Cape Town Vs Super Giants,Super Giants,David Willey,3,0,26,1,8.66,8,3,1,1,0,23
+MI Cape Town Vs Super Giants,Super Giants,Reece Topley,4,0,28,0,7,11,3,1,0,0,23
+MI Cape Town Vs Super Giants,Super Giants,Dwaine Pretorius,4,0,38,2,9.5,12,1,3,5,0,23
+MI Cape Town Vs Super Giants,Super Giants,Wiaan Mulder,3,0,31,1,10.33,5,4,1,1,0,23
+MI Cape Town Vs Super Giants,Super Giants,Simon Harmer,3,0,21,0,7,4,0,1,2,0,23
+MI Cape Town Vs Super Giants,Super Giants,Keshav Maharaj,3,0,20,1,6.66,10,0,2,2,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Beuran Hendricks,2,0,20,0,10,6,3,1,0,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Kagiso Rabada,4,0,22,3,5.5,13,2,1,0,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Duan Jansen,3.5,0,28,1,7.3,11,1,2,2,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Odean Smith,2,0,26,0,13,2,5,0,0,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Rashid Khan,4,0,24,0,6,10,3,0,0,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,Tim David,2,0,15,1,7.5,1,1,0,0,0,23
+MI Cape Town Vs Super Giants,MI Cape Town,George Linde,2,0,24,0,12,4,3,1,1,0,23
+Eastern Cape Vs Info,Info,David Willey,2,0,15,0,7.5,8,2,1,0,0,
+Eastern Cape Vs Info,Info,Reece Topley,2,0,20,2,10,6,3,1,0,0,
+Eastern Cape Vs Info,Info,Wiaan Mulder,1,0,7,1,7,2,1,0,0,0,
+Eastern Cape Vs Info,Info,Keemo Paul,0.2,0,10,0,30,1,2,0,1,1,
+Super Kings Vs MI Cape Town,MI Cape Town,George Linde,4,0,25,2,6.25,14,3,0,1,0,7
+Super Kings Vs MI Cape Town,MI Cape Town,Sam Curran,2,0,21,0,10.5,5,2,1,0,2,7
+Super Kings Vs MI Cape Town,MI Cape Town,Kagiso Rabada,4,0,12,2,3,12,0,0,0,0,7
+Super Kings Vs MI Cape Town,MI Cape Town,Waqar Salamkheil,4,0,19,1,4.75,11,0,0,1,0,7
+Super Kings Vs MI Cape Town,MI Cape Town,Rashid Khan,4,0,18,2,4.5,14,2,0,0,1,7
+Super Kings Vs MI Cape Town,MI Cape Town,Odean Smith,2,0,10,2,5,6,0,0,3,0,7
+Super Kings Vs MI Cape Town,Super Kings,George Garton,2,0,13,0,6.5,4,1,0,1,0,7
+Super Kings Vs MI Cape Town,Super Kings,Alzarri Joseph,4,0,26,0,6.5,10,2,0,3,0,7
+Super Kings Vs MI Cape Town,Super Kings,Gerald Coetzee,4,0,24,2,6,13,2,1,0,0,7
+Super Kings Vs MI Cape Town,Super Kings,Aaron Phangiso,4,0,23,0,5.75,12,0,2,0,0,7
+Super Kings Vs MI Cape Town,Super Kings,Reeza Hendricks,1,0,2,0,2,4,0,0,0,0,7
+Super Kings Vs MI Cape Town,Super Kings,Romario Shepherd,1.2,0,14,1,10.5,3,1,1,1,0,7
+MI Cape Town Vs Capitals,Capitals,Wayne Parnell,2.1,0,3,1,1.38,10,0,0,0,0,26
+MI Cape Town Vs Capitals,Capitals,Eathan Bosch,4,0,37,2,9.25,8,3,2,1,0,26
+MI Cape Town Vs Capitals,Capitals,Josh Little,4,0,37,1,9.25,9,5,1,0,0,26
+MI Cape Town Vs Capitals,Capitals,Anrich Nortje,4,0,37,2,9.25,12,2,2,3,1,26
+MI Cape Town Vs Capitals,Capitals,James Neesham,4,0,26,2,6.5,14,1,2,2,0,26
+MI Cape Town Vs Capitals,Capitals,Senuran Muthusamy,1.3,0,17,0,11.33,1,1,1,1,0,26
+MI Cape Town Vs Capitals,MI Cape Town,Sam Curran,4,0,26,3,6.5,13,4,0,0,0,26
+MI Cape Town Vs Capitals,MI Cape Town,Kagiso Rabada,4,0,34,1,8.5,11,3,2,0,0,26
+MI Cape Town Vs Capitals,MI Cape Town,Duan Jansen,4,0,47,2,11.75,10,5,3,1,0,26
+MI Cape Town Vs Capitals,MI Cape Town,Rashid Khan,4,0,17,1,4.25,12,0,0,1,0,26
+MI Cape Town Vs Capitals,MI Cape Town,Odean Smith,4,0,34,2,8.5,13,3,2,2,1,26
+Super Giants Vs Capitals,Capitals,Wayne Parnell,3,0,12,2,4,13,2,0,1,0,15
+Super Giants Vs Capitals,Capitals,Eathan Bosch,3,0,10,2,3.33,11,1,0,0,0,15
+Super Giants Vs Capitals,Capitals,Anrich Nortje,3.1,0,15,2,4.73,12,1,1,0,0,15
+Super Giants Vs Capitals,Capitals,James Neesham,1,0,20,0,20,1,0,3,0,0,15
+Super Giants Vs Capitals,Capitals,Adil Rashid,4,1,10,1,2.5,15,0,0,0,0,15
+Super Giants Vs Capitals,Capitals,Senuran Muthusamy,4,0,12,3,3,14,0,0,2,0,15
+Super Giants Vs Capitals,Super Giants,Kyle Mayers,2,0,12,1,6,8,2,0,1,0,15
+Super Giants Vs Capitals,Super Giants,Reece Topley,1,0,13,0,13,2,1,1,0,0,15
+Super Giants Vs Capitals,Super Giants,Hardus Viljoen,2,0,30,0,15,2,3,2,0,0,15
+Super Giants Vs Capitals,Super Giants,Jason Holder,1,0,10,0,10,3,2,0,0,0,15
+Super Giants Vs Capitals,Super Giants,Keshav Maharaj,1,0,8,1,8,3,0,1,0,0,15
+Super Giants Vs Capitals,Super Giants,Prenelan Subrayen,0.4,0,6,0,9,1,1,0,0,0,15
+MI Cape Town Vs Super Giants,Super Giants,Kyle Mayers,2,0,10,1,5,7,1,0,1,0,5
+MI Cape Town Vs Super Giants,Super Giants,Reece Topley,3,0,27,2,9,10,1,2,1,0,5
+MI Cape Town Vs Super Giants,Super Giants,Hardus Viljoen,3,0,30,2,10,9,3,2,1,0,5
+MI Cape Town Vs Super Giants,Super Giants,Jason Holder,4,0,27,1,6.75,9,2,1,0,0,5
+MI Cape Town Vs Super Giants,Super Giants,Prenelan Subrayen,4,0,29,2,7.25,11,0,3,0,0,5
+MI Cape Town Vs Super Giants,Super Giants,Keshav Maharaj,4,0,27,0,6.75,12,0,2,1,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,Sam Curran,2,0,14,0,7,5,2,0,0,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,Jofra Archer,3,0,31,0,10.33,7,3,2,0,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,Olly Stone,3.3,0,28,4,8,11,2,2,1,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,Rashid Khan,3,0,33,0,11,6,3,2,2,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,George Linde,3,0,20,1,6.66,7,1,1,0,0,5
+MI Cape Town Vs Super Giants,MI Cape Town,Duan Jansen,2,0,19,0,9.5,4,3,0,0,0,5
+Super Giants Vs Super Kings,Super Kings,Nandre Burger,3,0,32,0,10.66,5,3,2,0,0,22
+Super Giants Vs Super Kings,Super Kings,Maheesh Theekshana,4,0,30,3,7.5,13,2,2,0,0,22
+Super Giants Vs Super Kings,Super Kings,Alzarri Joseph,4,0,38,0,9.5,7,4,1,1,0,22
+Super Giants Vs Super Kings,Super Kings,Gerald Coetzee,3,0,21,3,7,7,1,1,1,0,22
+Super Giants Vs Super Kings,Super Kings,Romario Shepherd,3,0,21,0,7,4,2,0,0,0,22
+Super Giants Vs Super Kings,Super Kings,Neil Brand,3,0,28,0,9.33,3,3,0,0,0,22
+Super Giants Vs Super Kings,Super Giants,Kyle Mayers,2,0,6,0,3,8,0,0,2,0,22
+Super Giants Vs Super Kings,Super Giants,Keshav Maharaj,4,0,27,0,6.75,8,2,1,0,0,22
+Super Giants Vs Super Kings,Super Giants,Reece Topley,4,0,19,1,4.75,12,2,0,0,0,22
+Super Giants Vs Super Kings,Super Giants,Jason Holder,2,0,31,0,15.5,3,2,3,1,0,22
+Super Giants Vs Super Kings,Super Giants,Hardus Viljoen,3.1,0,40,0,12.63,7,4,3,0,0,22
+Super Giants Vs Super Kings,Super Giants,Simon Harmer,3,0,41,0,13.66,3,3,3,0,0,22
+Super Giants Vs Super Kings,Super Giants,Wiaan Mulder,1,0,8,1,8,3,1,0,1,0,22
+Super Kings Vs MI Cape Town,MI Cape Town,George Linde,2,0,16,1,8,7,2,1,0,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Sam Curran,3,1,26,2,8.66,12,5,1,0,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Jofra Archer,4,0,35,2,8.75,12,2,3,0,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Kagiso Rabada,3,0,27,0,9,7,5,0,0,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Rashid Khan,4,0,42,0,10.5,5,4,0,2,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Tim David,2,0,14,0,7,4,2,0,0,0,29
+Super Kings Vs MI Cape Town,MI Cape Town,Dewald Brevis,2,0,18,1,9,5,0,2,0,0,29
+Super Kings Vs MI Cape Town,Super Kings,Kyle Simmonds,3,0,23,3,7.66,6,2,1,0,0,29
+Super Kings Vs MI Cape Town,Super Kings,Lizaad Williams,3,0,11,1,3.66,11,0,0,1,1,29
+Super Kings Vs MI Cape Town,Super Kings,Maheesh Theekshana,4,0,16,2,4,10,0,0,1,0,29
+Super Kings Vs MI Cape Town,Super Kings,Gerald Coetzee,3.5,0,27,3,7.04,13,1,2,2,0,29
+Super Kings Vs MI Cape Town,Super Kings,Romario Shepherd,3,0,29,0,9.66,6,1,2,1,0,29
+Super Kings Vs MI Cape Town,Super Kings,Donovan Ferreira,1,0,3,1,3,3,0,0,0,0,29
+MI Cape Town Vs Eastern Cape,Eastern Cape,Marco Jansen,4,0,25,1,6.25,12,2,1,1,0,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,22,2,5.5,13,3,0,0,0,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,Ottniel Baartman,4,0,45,3,11.25,9,4,3,1,0,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,James Fuller,3,0,34,0,11.33,10,2,3,1,0,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,Roelof van der Merwe,3,0,20,0,6.66,5,2,0,0,0,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,Aiden Markram,2,0,8,2,4,4,0,0,0,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,Sam Curran,4,0,37,2,9.25,10,7,0,1,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,Kagiso Rabada,4,1,26,0,6.5,10,1,1,1,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,Olly Stone,2,0,31,0,15.5,1,3,2,0,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,Rashid Khan,4,0,23,1,5.75,11,1,0,1,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,George Linde,3,0,21,0,7,5,2,0,0,0,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,Odean Smith,2.3,0,23,3,9.2,5,2,1,0,0,9
+Eastern Cape Vs Super Kings,Super Kings,Nandre Burger,4,0,50,0,12.5,6,4,2,3,1,32
+Eastern Cape Vs Super Kings,Super Kings,Lizaad Williams,4,0,36,4,9,11,3,2,2,2,32
+Eastern Cape Vs Super Kings,Super Kings,Gerald Coetzee,4,0,41,0,10.25,8,2,2,1,2,32
+Eastern Cape Vs Super Kings,Super Kings,Maheesh Theekshana,4,0,29,0,7.25,8,2,1,1,0,32
+Eastern Cape Vs Super Kings,Super Kings,Romario Shepherd,4,0,54,0,13.5,2,4,3,0,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Sisanda Magala,4,1,46,1,11.5,10,5,3,1,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Marco Jansen,3,0,36,1,12,4,5,1,1,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Brydon Carse,4,0,42,1,10.5,10,4,3,1,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Ottniel Baartman,3,0,28,1,9.33,6,1,2,1,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Roelof van der Merwe,4,0,23,2,5.75,7,0,1,1,0,32
+Eastern Cape Vs Super Kings,Eastern Cape,Aiden Markram,2,0,16,0,8,2,2,0,0,0,32
+Capitals Vs Eastern Cape,Eastern Cape,JJ Smuts,2,0,32,0,16,4,3,3,0,0,6
+Capitals Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,28,2,7,11,1,2,1,0,6
+Capitals Vs Eastern Cape,Eastern Cape,Marco Jansen,4,0,31,1,7.75,10,2,2,0,0,6
+Capitals Vs Eastern Cape,Eastern Cape,Brydon Carse,3,0,43,1,14.33,7,2,5,0,1,6
+Capitals Vs Eastern Cape,Eastern Cape,James Fuller,3,0,34,0,11.33,6,3,2,2,0,6
+Capitals Vs Eastern Cape,Eastern Cape,Ottniel Baartman,4,0,42,2,10.5,8,4,2,2,0,6
+Capitals Vs Eastern Cape,Capitals,Eathan Bosch,4,0,33,1,8.25,9,4,1,0,0,6
+Capitals Vs Eastern Cape,Capitals,Wayne Parnell,3,0,20,2,6.66,9,2,1,0,0,6
+Capitals Vs Eastern Cape,Capitals,Anrich Nortje,4,0,37,1,9.25,8,4,1,0,1,6
+Capitals Vs Eastern Cape,Capitals,Migael Pretorius,3,0,28,0,9.33,5,3,1,1,0,6
+Capitals Vs Eastern Cape,Capitals,Adil Rashid,4,0,46,2,11.5,4,2,4,0,0,6
+Capitals Vs Eastern Cape,Capitals,James Neesham,2,0,13,1,6.5,1,0,0,0,0,6
+Capitals Vs Eastern Cape,Eastern Cape,Marco Jansen,3,0,31,1,10.33,6,4,0,1,0,3
+Capitals Vs Eastern Cape,Eastern Cape,Sisanda Magala,4,0,35,1,8.75,9,4,1,0,0,3
+Capitals Vs Eastern Cape,Eastern Cape,Ottniel Baartman,3,0,45,2,15,5,4,3,1,0,3
+Capitals Vs Eastern Cape,Eastern Cape,James Fuller,3,0,25,0,8.33,6,2,1,0,0,3
+Capitals Vs Eastern Cape,Eastern Cape,Mason Crane,3,0,25,0,8.33,4,3,0,0,0,3
+Capitals Vs Eastern Cape,Eastern Cape,Aiden Markram,2,0,17,2,8.5,6,2,0,1,0,3
+Capitals Vs Eastern Cape,Eastern Cape,JJ Smuts,2,0,12,0,6,4,1,0,0,0,3
+Capitals Vs Eastern Cape,Capitals,Eathan Bosch,4,0,27,0,6.75,14,2,2,0,0,3
+Capitals Vs Eastern Cape,Capitals,Wayne Parnell,4,1,38,1,9.5,10,3,2,0,0,3
+Capitals Vs Eastern Cape,Capitals,Anrich Nortje,4,1,18,2,4.5,15,3,0,0,0,3
+Capitals Vs Eastern Cape,Capitals,James Neesham,4,0,38,1,9.5,6,4,1,1,0,3
+Capitals Vs Eastern Cape,Capitals,Adil Rashid,4,0,47,1,11.75,6,4,3,0,0,3
+Eastern Cape Vs Royals,Royals,Bjorn Fortuin,4,0,25,1,6.25,11,4,0,0,0,21
+Eastern Cape Vs Royals,Royals,Lungi Ngidi,4,0,21,1,5.25,12,1,1,0,0,21
+Eastern Cape Vs Royals,Royals,Evan Jones,4,1,27,2,6.75,11,3,0,2,0,21
+Eastern Cape Vs Royals,Royals,Andile Phehlukwayo,4,0,26,2,6.5,6,2,0,0,0,21
+Eastern Cape Vs Royals,Royals,Tabraiz Shamsi,4,0,29,1,7.25,4,3,0,0,0,21
+Eastern Cape Vs Royals,Eastern Cape,JJ Smuts,4,0,20,1,5,10,0,1,0,0,21
+Eastern Cape Vs Royals,Eastern Cape,Sisanda Magala,3,0,43,1,14.33,4,2,4,0,0,21
+Eastern Cape Vs Royals,Eastern Cape,Marco Jansen,3,0,21,1,7,5,2,0,0,1,21
+Eastern Cape Vs Royals,Eastern Cape,Roelof van der Merwe,4,0,11,2,2.75,13,0,0,0,0,21
+Eastern Cape Vs Royals,Eastern Cape,Brydon Carse,3.5,0,24,0,6.26,8,1,1,0,0,21
+Eastern Cape Vs Royals,Eastern Cape,Aiden Markram,1,0,10,0,10,1,0,1,0,0,21
+Super Kings Vs Capitals,Capitals,Eathan Bosch,2,0,21,1,10.5,8,1,2,1,1,13
+Super Kings Vs Capitals,Capitals,Wayne Parnell,3,0,40,0,13.33,8,6,2,1,1,13
+Super Kings Vs Capitals,Capitals,Migael Pretorius,1,0,13,1,13,2,3,0,0,0,13
+Super Kings Vs Capitals,Capitals,Anrich Nortje,4,0,12,3,3,16,1,0,0,0,13
+Super Kings Vs Capitals,Capitals,James Neesham,3,0,7,3,2.33,13,0,0,1,0,13
+Super Kings Vs Capitals,Capitals,Adil Rashid,2.4,0,25,2,9.37,8,2,2,0,0,13
+Super Kings Vs Capitals,Super Kings,Nandre Burger,3,0,24,1,8,7,2,1,0,0,13
+Super Kings Vs Capitals,Super Kings,Alzarri Joseph,3,0,40,0,13.33,5,5,2,0,0,13
+Super Kings Vs Capitals,Super Kings,Gerald Coetzee,2,0,25,1,12.5,4,2,1,2,0,13
+Super Kings Vs Capitals,Super Kings,Aaron Phangiso,2,0,14,0,7,2,1,0,0,0,13
+Super Kings Vs Capitals,Super Kings,Romario Shepherd,1,0,7,0,7,2,1,0,0,0,13
+Super Kings Vs Capitals,Super Kings,Lewis Gregory,2,0,12,1,6,6,2,0,0,0,13

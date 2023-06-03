@@ -1,0 +1,533 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,4s,6s,SR,out/not_out,match_id
+Eastern Cape Vs Super Kings,Eastern Cape,1,Adam Rossington†,6,8,1,0,75,out,32
+Eastern Cape Vs Super Kings,Eastern Cape,2,Temba Bavuma,0,1,0,0,0,out,32
+Eastern Cape Vs Super Kings,Eastern Cape,3,Jordan Hermann,48,36,5,1,133.33,out,32
+Eastern Cape Vs Super Kings,Eastern Cape,4,Aiden Markram(c),100,58,6,6,172.41,out,32
+Eastern Cape Vs Super Kings,Eastern Cape,5,Tristan Stubbs,20,11,2,1,181.81,out,32
+Eastern Cape Vs Super Kings,Eastern Cape,6,Jordan Cox,18,6,0,2,300,not_out,32
+Eastern Cape Vs Super Kings,Eastern Cape,7,Marco Jansen,6,5,1,0,120,not_out,32
+Eastern Cape Vs Super Kings,Super Kings,1,Faf du Plessis(c),0,1,0,0,0,out,32
+Eastern Cape Vs Super Kings,Super Kings,2,Gerald Coetzee,12,17,0,1,70.58,out,32
+Eastern Cape Vs Super Kings,Super Kings,3,Leus du Plooy,0,6,0,0,0,out,32
+Eastern Cape Vs Super Kings,Super Kings,4,Reeza Hendricks,96,54,11,4,177.77,out,32
+Eastern Cape Vs Super Kings,Super Kings,5,Matthew Wade†,19,18,2,0,105.55,out,32
+Eastern Cape Vs Super Kings,Super Kings,6,Donovan Ferreira,20,9,3,1,222.22,out,32
+Eastern Cape Vs Super Kings,Super Kings,7,Romario Shepherd,38,14,1,4,271.42,not_out,32
+Eastern Cape Vs Super Kings,Super Kings,8,Sibonelo Makhanya,1,1,0,0,100,not_out,32
+Super Kings Vs Capitals,Super Kings,1,Reeza Hendricks,45,50,4,1,90,out,11
+Super Kings Vs Capitals,Super Kings,2,Faf du Plessis(c),27,16,5,0,168.75,out,11
+Super Kings Vs Capitals,Super Kings,3,Leus du Plooy,75,40,7,5,187.5,not_out,11
+Super Kings Vs Capitals,Super Kings,4,Donovan Ferreira,3,7,0,0,42.85,out,11
+Super Kings Vs Capitals,Super Kings,5,Romario Shepherd,1,2,0,0,50,out,11
+Super Kings Vs Capitals,Super Kings,6,Sibonelo Makhanya,4,2,1,0,200,out,11
+Super Kings Vs Capitals,Super Kings,7,Gerald Coetzee,0,1,0,0,0,out,11
+Super Kings Vs Capitals,Super Kings,8,Kyle Verreynne†,6,2,1,0,300,not_out,11
+Super Kings Vs Capitals,Capitals,1,Phil Salt†,29,15,4,1,193.33,out,11
+Super Kings Vs Capitals,Capitals,2,Will Jacks,16,13,3,0,123.07,out,11
+Super Kings Vs Capitals,Capitals,3,Rilee Rossouw,0,1,0,0,0,out,11
+Super Kings Vs Capitals,Capitals,4,Theunis de Bruyn,18,19,2,0,94.73,out,11
+Super Kings Vs Capitals,Capitals,5,Shane Dadswell,22,13,2,1,169.23,out,11
+Super Kings Vs Capitals,Capitals,6,James Neesham,24,16,0,3,150,out,11
+Super Kings Vs Capitals,Capitals,7,Eathan Bosch,15,17,1,0,88.23,out,11
+Super Kings Vs Capitals,Capitals,8,Wayne Parnell(c),19,17,3,0,111.76,not_out,11
+Super Kings Vs Capitals,Capitals,9,Migael Pretorius,5,3,0,0,166.66,out,11
+Super Kings Vs Capitals,Capitals,10,Adil Rashid,8,5,0,1,160,out,11
+Super Kings Vs Capitals,Capitals,11,Anrich Nortje,0,1,0,0,0,out,11
+Capitals Vs Eastern Cape,Capitals,1,Phil Salt†,77,47,11,0,163.82,not_out,3
+Capitals Vs Eastern Cape,Capitals,2,Will Jacks,6,4,1,0,150,out,3
+Capitals Vs Eastern Cape,Capitals,3,Rilee Rossouw,4,3,1,0,133.33,out,3
+Capitals Vs Eastern Cape,Capitals,4,Theunis de Bruyn,19,12,1,1,158.33,out,3
+Capitals Vs Eastern Cape,Capitals,5,Senuran Muthusamy,13,16,0,0,81.25,out,3
+Capitals Vs Eastern Cape,Capitals,6,Shane Dadswell,0,1,0,0,0,out,3
+Capitals Vs Eastern Cape,Capitals,7,James Neesham,37,28,4,1,132.14,out,3
+Capitals Vs Eastern Cape,Capitals,8,Wayne Parnell(c),29,9,2,3,322.22,not_out,3
+Capitals Vs Eastern Cape,Eastern Cape,1,JJ Smuts,66,51,6,4,129.41,out,3
+Capitals Vs Eastern Cape,Eastern Cape,2,Sarel Erwee,1,3,0,0,33.33,out,3
+Capitals Vs Eastern Cape,Eastern Cape,3,Jordan Cox†,5,11,1,0,45.45,out,3
+Capitals Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),5,8,1,0,62.5,out,3
+Capitals Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,23,11,2,2,209.09,out,3
+Capitals Vs Eastern Cape,Eastern Cape,6,Tom Abell,40,24,4,1,166.66,not_out,3
+Capitals Vs Eastern Cape,Eastern Cape,7,James Fuller,27,12,2,1,225,not_out,3
+Super Kings Vs Super Giants,Super Kings,1,Janneman Malan,5,12,0,0,41.66,out,2
+Super Kings Vs Super Giants,Super Kings,2,Reeza Hendricks,1,3,0,0,33.33,out,2
+Super Kings Vs Super Giants,Super Kings,3,Faf du Plessis(c),39,33,3,0,118.18,out,2
+Super Kings Vs Super Giants,Super Kings,4,Kyle Verreynne†,10,9,2,0,111.11,out,2
+Super Kings Vs Super Giants,Super Kings,5,Lewis Gregory,2,3,0,0,66.66,out,2
+Super Kings Vs Super Giants,Super Kings,6,Donovan Ferreira,82,40,8,5,205,not_out,2
+Super Kings Vs Super Giants,Super Kings,7,Romario Shepherd,40,19,2,4,210.52,out,2
+Super Kings Vs Super Giants,Super Kings,8,George Garton,4,1,1,0,400,not_out,2
+Super Kings Vs Super Giants,Super Giants,1,Kyle Mayers,39,29,2,3,134.48,out,2
+Super Kings Vs Super Giants,Super Giants,2,Quinton de Kock(c)†,78,52,5,5,150,out,2
+Super Kings Vs Super Giants,Super Giants,3,Heinrich Klaasen,20,21,1,0,95.23,out,2
+Super Kings Vs Super Giants,Super Giants,4,Wiaan Mulder,10,9,0,1,111.11,out,2
+Super Kings Vs Super Giants,Super Giants,5,Jason Holder,2,4,0,0,50,not_out,2
+Super Kings Vs Super Giants,Super Giants,6,Dwaine Pretorius,14,6,0,2,233.33,out,2
+Super Kings Vs Super Giants,Super Giants,7,Keemo Paul,1,1,0,0,100,not_out,2
+Capitals Vs Eastern Cape,Capitals,1,Phil Salt†,8,7,1,0,114.28,out,33
+Capitals Vs Eastern Cape,Capitals,2,Kusal Mendis,21,19,1,1,110.52,out,33
+Capitals Vs Eastern Cape,Capitals,3,Theunis de Bruyn,11,8,2,0,137.5,out,33
+Capitals Vs Eastern Cape,Capitals,4,Rilee Rossouw,19,11,4,0,172.72,out,33
+Capitals Vs Eastern Cape,Capitals,5,Colin Ingram,17,25,1,0,68,out,33
+Capitals Vs Eastern Cape,Capitals,6,James Neesham,19,21,2,0,90.47,out,33
+Capitals Vs Eastern Cape,Capitals,7,Eathan Bosch,15,13,2,0,115.38,out,33
+Capitals Vs Eastern Cape,Capitals,8,Wayne Parnell(c),8,5,0,1,160,out,33
+Capitals Vs Eastern Cape,Capitals,9,Migael Pretorius,0,1,0,0,0,out,33
+Capitals Vs Eastern Cape,Capitals,10,Adil Rashid,3,4,0,0,75,out,33
+Capitals Vs Eastern Cape,Capitals,11,Anrich Nortje,5,4,1,0,125,not_out,33
+Capitals Vs Eastern Cape,Eastern Cape,1,Adam Rossington†,57,30,4,5,190,out,33
+Capitals Vs Eastern Cape,Eastern Cape,2,Temba Bavuma,2,2,0,0,100,out,33
+Capitals Vs Eastern Cape,Eastern Cape,3,Jordan Hermann,22,17,5,0,129.41,out,33
+Capitals Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),26,19,2,1,136.84,out,33
+Capitals Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,5,12,0,0,41.66,out,33
+Capitals Vs Eastern Cape,Eastern Cape,6,Jordan Cox,7,5,1,0,140,out,33
+Capitals Vs Eastern Cape,Eastern Cape,7,Marco Jansen,13,11,1,1,118.18,not_out,33
+Capitals Vs Eastern Cape,Eastern Cape,8,Brydon Carse,0,3,0,0,0,not_out,33
+Super Giants Vs Capitals,Super Giants,1,Kyle Mayers,0,1,0,0,0,out,15
+Super Giants Vs Capitals,Super Giants,2,Wiaan Mulder,5,7,1,0,71.42,out,15
+Super Giants Vs Capitals,Super Giants,3,Quinton de Kock(c)†,13,15,1,1,86.66,out,15
+Super Giants Vs Capitals,Super Giants,4,Heinrich Klaasen,31,24,1,2,129.16,out,15
+Super Giants Vs Capitals,Super Giants,5,Jason Holder,10,16,0,1,62.5,out,15
+Super Giants Vs Capitals,Super Giants,6,Christiaan Jonker,1,5,0,0,20,out,15
+Super Giants Vs Capitals,Super Giants,7,Dwaine Pretorius,4,14,0,0,28.57,out,15
+Super Giants Vs Capitals,Super Giants,8,Keshav Maharaj,5,16,0,0,31.25,out,15
+Super Giants Vs Capitals,Super Giants,9,Hardus Viljoen,2,7,0,0,28.57,out,15
+Super Giants Vs Capitals,Super Giants,10,Prenelan Subrayen,0,1,0,0,0,out,15
+Super Giants Vs Capitals,Super Giants,11,Reece Topley,5,3,1,0,166.66,not_out,15
+Super Giants Vs Capitals,Capitals,1,Phil Salt†,0,1,0,0,0,out,15
+Super Giants Vs Capitals,Capitals,2,Will Jacks,56,25,5,4,224,out,15
+Super Giants Vs Capitals,Capitals,3,Theunis de Bruyn,21,19,4,0,110.52,not_out,15
+Super Giants Vs Capitals,Capitals,4,Rilee Rossouw,1,1,0,0,100,not_out,15
+Super Kings Vs Royals,Super Kings,1,Janneman Malan,2,4,0,0,50,out,4
+Super Kings Vs Royals,Super Kings,2,Reeza Hendricks,4,11,0,0,36.36,out,4
+Super Kings Vs Royals,Super Kings,3,Faf du Plessis(c),2,6,0,0,33.33,out,4
+Super Kings Vs Royals,Super Kings,4,Kyle Verreynne†,11,10,1,0,110,out,4
+Super Kings Vs Royals,Super Kings,5,Lewis Gregory,2,5,0,0,40,out,4
+Super Kings Vs Royals,Super Kings,6,Donovan Ferreira,6,8,1,0,75,out,4
+Super Kings Vs Royals,Super Kings,7,Romario Shepherd,7,6,0,1,116.66,out,4
+Super Kings Vs Royals,Super Kings,8,George Garton,3,6,0,0,50,out,4
+Super Kings Vs Royals,Super Kings,9,Alzarri Joseph,13,11,2,0,118.18,out,4
+Super Kings Vs Royals,Super Kings,10,Lizaad Williams,17,18,2,0,94.44,not_out,4
+Super Kings Vs Royals,Super Kings,11,Aaron Phangiso,10,19,0,0,52.63,out,4
+Super Kings Vs Royals,Royals,1,Jason Roy,12,13,2,0,92.3,out,4
+Super Kings Vs Royals,Royals,2,Jos Buttler†,29,21,4,0,138.09,not_out,4
+Super Kings Vs Royals,Royals,3,Wihan Lubbe,19,13,4,0,146.15,out,4
+Super Kings Vs Royals,Royals,4,Dane Vilas,13,13,1,0,100,out,4
+Super Kings Vs Royals,Royals,5,David Miller(c),8,4,0,1,200,not_out,4
+Super Kings Vs MI Cape Town,Super Kings,1,Janneman Malan,16,21,2,1,76.19,out,7
+Super Kings Vs MI Cape Town,Super Kings,2,Reeza Hendricks,2,6,0,0,33.33,out,7
+Super Kings Vs MI Cape Town,Super Kings,3,Faf du Plessis(c),8,14,0,0,57.14,out,7
+Super Kings Vs MI Cape Town,Super Kings,4,Kyle Verreynne†,4,2,1,0,200,out,7
+Super Kings Vs MI Cape Town,Super Kings,5,Leus du Plooy,21,26,1,0,80.76,out,7
+Super Kings Vs MI Cape Town,Super Kings,6,Donovan Ferreira,7,8,1,0,87.5,out,7
+Super Kings Vs MI Cape Town,Super Kings,7,Romario Shepherd,5,14,0,0,35.71,out,7
+Super Kings Vs MI Cape Town,Super Kings,8,George Garton,13,15,1,0,86.66,not_out,7
+Super Kings Vs MI Cape Town,Super Kings,9,Alzarri Joseph,2,5,0,0,40,out,7
+Super Kings Vs MI Cape Town,Super Kings,10,Gerald Coetzee,1,4,0,0,25,out,7
+Super Kings Vs MI Cape Town,Super Kings,11,Aaron Phangiso,10,8,1,0,125,not_out,7
+Super Kings Vs MI Cape Town,MI Cape Town,1,Dewald Brevis,42,34,2,3,123.52,out,7
+Super Kings Vs MI Cape Town,MI Cape Town,2,Ryan Rickelton,21,24,2,0,87.5,out,7
+Super Kings Vs MI Cape Town,MI Cape Town,3,Rassie van der Dussen,14,23,1,0,60.86,not_out,7
+Super Kings Vs MI Cape Town,MI Cape Town,4,Grant Roelofsen†,5,8,0,0,62.5,out,7
+Super Kings Vs MI Cape Town,MI Cape Town,5,Sam Curran,15,9,1,1,166.66,not_out,7
+MI Cape Town Vs Eastern Cape,MI Cape Town,1,Dewald Brevis,6,8,0,0,75,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,2,Ryan Rickelton,46,36,4,1,127.77,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,3,Grant Roelofsen†,56,36,7,2,155.55,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,4,George Linde,8,8,1,0,100,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,5,Rassie van der Dussen,4,5,0,0,80,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,6,Sam Curran,0,1,0,0,0,out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,7,Delano Potgieter,21,13,1,2,161.53,not_out,12
+MI Cape Town Vs Eastern Cape,MI Cape Town,8,Odean Smith,25,13,3,1,192.3,not_out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,1,Adam Rossington†,11,10,1,0,110,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,2,JJ Smuts,4,2,1,0,200,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,3,Sarel Erwee,19,14,3,0,135.71,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),12,14,1,0,85.71,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,28,21,0,3,133.33,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,6,Jordan Cox,13,18,0,0,72.22,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,7,Marco Jansen,66,27,3,7,244.44,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,8,Brydon Carse,5,8,0,0,62.5,out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,9,Roelof van der Merwe,4,3,0,0,133.33,not_out,12
+MI Cape Town Vs Eastern Cape,Eastern Cape,10,Sisanda Magala,0,2,0,0,0,not_out,12
+Super Giants Vs Super Kings,Super Giants,1,Kyle Mayers,28,15,2,3,186.66,out,22
+Super Giants Vs Super Kings,Super Giants,2,Quinton de Kock(c)†,6,9,1,0,66.66,out,22
+Super Giants Vs Super Kings,Super Giants,3,Matthew Breetzke,28,24,1,1,116.66,out,22
+Super Giants Vs Super Kings,Super Giants,4,Wiaan Mulder,0,2,0,0,0,out,22
+Super Giants Vs Super Kings,Super Giants,5,Heinrich Klaasen,65,48,7,0,135.41,out,22
+Super Giants Vs Super Kings,Super Giants,6,Keemo Paul,8,7,0,1,114.28,out,22
+Super Giants Vs Super Kings,Super Giants,7,Jason Holder,28,12,4,1,233.33,not_out,22
+Super Giants Vs Super Kings,Super Giants,8,Simon Harmer,5,3,0,0,166.66,not_out,22
+Super Giants Vs Super Kings,Super Kings,1,Reeza Hendricks,45,46,4,2,97.82,out,22
+Super Giants Vs Super Kings,Super Kings,2,Faf du Plessis(c),113,58,8,8,194.82,not_out,22
+Super Giants Vs Super Kings,Super Kings,3,Donovan Ferreira†,4,8,1,0,50,out,22
+Super Giants Vs Super Kings,Super Kings,4,Leus du Plooy,6,3,1,0,200,not_out,22
+MI Cape Town Vs Royals,MI Cape Town,1,Ryan Rickelton,5,4,1,0,125,out,16
+MI Cape Town Vs Royals,MI Cape Town,2,Dewald Brevis,2,10,0,0,20,out,16
+MI Cape Town Vs Royals,MI Cape Town,3,Sam Curran,2,3,0,0,66.66,out,16
+MI Cape Town Vs Royals,MI Cape Town,4,Grant Roelofsen†,34,30,3,0,113.33,out,16
+MI Cape Town Vs Royals,MI Cape Town,5,Rassie van der Dussen,49,42,4,1,116.66,out,16
+MI Cape Town Vs Royals,MI Cape Town,6,George Linde,24,14,2,1,171.42,out,16
+MI Cape Town Vs Royals,MI Cape Town,7,Delano Potgieter,0,2,0,0,0,out,16
+MI Cape Town Vs Royals,MI Cape Town,8,Odean Smith,6,5,1,0,120,out,16
+MI Cape Town Vs Royals,MI Cape Town,9,Rashid Khan(c),13,7,2,0,185.71,out,16
+MI Cape Town Vs Royals,MI Cape Town,10,Jofra Archer,2,2,0,0,100,not_out,16
+MI Cape Town Vs Royals,MI Cape Town,11,Kagiso Rabada,0,1,0,0,0,not_out,16
+MI Cape Town Vs Royals,Royals,1,Jason Roy,4,8,0,0,50,out,16
+MI Cape Town Vs Royals,Royals,2,Jos Buttler†,68,58,9,0,117.24,out,16
+MI Cape Town Vs Royals,Royals,3,Wihan Lubbe,0,1,0,0,0,out,16
+MI Cape Town Vs Royals,Royals,4,Dane Vilas,2,8,0,0,25,out,16
+MI Cape Town Vs Royals,Royals,5,Mitchell Van Buuren,1,3,0,0,33.33,out,16
+MI Cape Town Vs Royals,Royals,6,David Miller(c),26,24,2,0,108.33,out,16
+MI Cape Town Vs Royals,Royals,7,Evan Jones,13,12,1,0,108.33,not_out,16
+MI Cape Town Vs Royals,Royals,8,Ferisco Adams,6,6,0,0,100,not_out,16
+Eastern Cape Vs Super Giants,Eastern Cape,1,Adam Rossington†,72,30,10,4,240,out,19
+Eastern Cape Vs Super Giants,Eastern Cape,2,Jordan Hermann,59,44,9,1,134.09,out,19
+Eastern Cape Vs Super Giants,Eastern Cape,3,Aiden Markram(c),44,34,3,1,129.41,not_out,19
+Eastern Cape Vs Super Giants,Eastern Cape,4,Tristan Stubbs,27,13,1,2,207.69,not_out,19
+Eastern Cape Vs Super Giants,Super Giants,1,Kyle Mayers,11,20,0,1,55,out,19
+Eastern Cape Vs Super Giants,Super Giants,2,Matthew Breetzke,3,7,0,0,42.85,out,19
+Eastern Cape Vs Super Giants,Super Giants,3,Wiaan Mulder,29,15,4,1,193.33,out,19
+Eastern Cape Vs Super Giants,Super Giants,4,Heinrich Klaasen,1,2,0,0,50,out,19
+Eastern Cape Vs Super Giants,Super Giants,5,Quinton de Kock(c)†,0,1,0,0,0,out,19
+Eastern Cape Vs Super Giants,Super Giants,6,Jason Holder,7,8,1,0,87.5,out,19
+Eastern Cape Vs Super Giants,Super Giants,7,Dwaine Pretorius,3,4,0,0,75,out,19
+Eastern Cape Vs Super Giants,Super Giants,8,Keemo Paul,7,4,0,1,175,out,19
+Eastern Cape Vs Super Giants,Super Giants,9,Keshav Maharaj,12,10,0,1,120,not_out,19
+Eastern Cape Vs Super Giants,Super Giants,10,Prenelan Subrayen,4,8,0,0,50,out,19
+Eastern Cape Vs Super Giants,Super Giants,11,Akila Dananjaya,4,9,0,0,44.44,out,19
+MI Cape Town Vs Super Giants,MI Cape Town,1,Dewald Brevis,13,10,1,1,130,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,2,Grant Roelofsen†,10,13,1,0,76.92,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,3,Rassie van der Dussen,43,32,5,1,134.37,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,4,George Linde,5,12,0,0,41.66,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,5,Tim David,33,26,0,3,126.92,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,6,Odean Smith,17,10,2,1,170,not_out,23
+MI Cape Town Vs Super Giants,MI Cape Town,7,Delano Potgieter,32,17,2,3,188.23,not_out,23
+MI Cape Town Vs Super Giants,Super Giants,1,Quinton de Kock(c),63,41,7,3,153.65,out,23
+MI Cape Town Vs Super Giants,Super Giants,2,Ben McDermott,5,7,1,0,71.42,out,23
+MI Cape Town Vs Super Giants,Super Giants,3,Matthew Breetzke,48,39,5,1,123.07,not_out,23
+MI Cape Town Vs Super Giants,Super Giants,4,Keemo Paul,31,18,4,1,172.22,out,23
+MI Cape Town Vs Super Giants,Super Giants,5,Heinrich Klaasen†,0,2,0,0,0,out,23
+MI Cape Town Vs Super Giants,Super Giants,6,Wiaan Mulder,7,7,1,0,100,out,23
+MI Cape Town Vs Super Giants,Super Giants,7,David Willey,2,5,0,0,40,not_out,23
+Royals Vs Info,Royals,1,Jason Roy,61,42,8,3,145.23,out,
+Royals Vs Info,Royals,2,Jos Buttler†,23,11,0,3,209.09,out,
+Royals Vs Info,Royals,3,Wihan Lubbe,12,18,2,0,66.66,out,
+Royals Vs Info,Royals,4,Dane Vilas,17,12,2,0,141.66,out,
+Royals Vs Info,Royals,5,David Miller(c),5,6,0,0,83.33,not_out,
+Royals Vs Info,Royals,6,Evan Jones,1,1,0,0,100,not_out,
+Super Kings Vs MI Cape Town,Super Kings,1,Faf du Plessis(c),0,1,0,0,0,out,29
+Super Kings Vs MI Cape Town,Super Kings,2,Reeza Hendricks,0,6,0,0,0,out,29
+Super Kings Vs MI Cape Town,Super Kings,3,Leus du Plooy,81,48,11,1,168.75,not_out,29
+Super Kings Vs MI Cape Town,Super Kings,4,Sibonelo Makhanya,4,3,1,0,133.33,out,29
+Super Kings Vs MI Cape Town,Super Kings,5,Matthew Wade†,40,18,8,1,222.22,out,29
+Super Kings Vs MI Cape Town,Super Kings,6,Donovan Ferreira,19,18,0,2,105.55,out,29
+Super Kings Vs MI Cape Town,Super Kings,7,Kyle Simmonds,13,15,0,1,86.66,out,29
+Super Kings Vs MI Cape Town,Super Kings,8,Romario Shepherd,15,11,0,2,136.36,not_out,29
+Super Kings Vs MI Cape Town,MI Cape Town,1,Rassie van der Dussen,20,15,2,0,133.33,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,2,Wesley Marshall,4,8,0,0,50,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,3,Grant Roelofsen†,21,24,0,1,87.5,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,4,Dewald Brevis,27,26,0,2,103.84,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,5,George Linde,4,7,1,0,57.14,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,6,Tim David,17,8,1,2,212.5,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,7,Delano Potgieter,2,4,0,0,50,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,8,Sam Curran,2,5,0,0,40,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,9,Rashid Khan(c),4,5,0,0,80,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,10,Jofra Archer,2,3,0,0,66.66,out,29
+Super Kings Vs MI Cape Town,MI Cape Town,11,Kagiso Rabada,0,3,0,0,0,not_out,29
+Royals Vs MI Cape Town,Royals,1,Wihan Lubbe,3,8,0,0,37.5,out,1
+Royals Vs MI Cape Town,Royals,2,Jos Buttler†,51,42,6,1,121.42,out,1
+Royals Vs MI Cape Town,Royals,3,Jason Roy,13,14,2,0,92.85,out,1
+Royals Vs MI Cape Town,Royals,4,Dane Vilas,6,7,1,0,85.71,out,1
+Royals Vs MI Cape Town,Royals,5,David Miller(c),42,31,4,1,135.48,out,1
+Royals Vs MI Cape Town,Royals,6,Eoin Morgan,19,15,1,1,126.66,out,1
+Royals Vs MI Cape Town,Royals,7,Ferisco Adams,0,1,0,0,0,out,1
+Royals Vs MI Cape Town,Royals,8,Bjorn Fortuin,1,3,0,0,33.33,not_out,1
+Royals Vs MI Cape Town,MI Cape Town,1,Dewald Brevis,70,41,4,5,170.73,not_out,1
+Royals Vs MI Cape Town,MI Cape Town,2,Ryan Rickelton,42,33,5,1,127.27,out,1
+Royals Vs MI Cape Town,MI Cape Town,3,Sam Curran,20,16,1,2,125,out,1
+Royals Vs MI Cape Town,MI Cape Town,4,Rassie van der Dussen,8,3,0,1,266.66,not_out,1
+Super Giants Vs Royals,Super Giants,1,Kyle Mayers,39,23,6,1,169.56,out,8
+Super Giants Vs Royals,Super Giants,2,Wiaan Mulder,42,33,4,1,127.27,out,8
+Super Giants Vs Royals,Super Giants,3,Quinton de Kock(c)†,57,31,5,4,183.87,out,8
+Super Giants Vs Royals,Super Giants,4,Heinrich Klaasen,50,19,1,6,263.15,not_out,8
+Super Giants Vs Royals,Super Giants,5,Keemo Paul,7,9,0,0,77.77,out,8
+Super Giants Vs Royals,Super Giants,6,Dwaine Pretorius,7,5,0,1,140,not_out,8
+Super Giants Vs Royals,Royals,1,Jason Roy,33,23,4,1,143.47,out,8
+Super Giants Vs Royals,Royals,2,Jos Buttler†,2,7,0,0,28.57,out,8
+Super Giants Vs Royals,Royals,3,Wihan Lubbe,18,11,3,0,163.63,out,8
+Super Giants Vs Royals,Royals,4,David Miller(c),1,3,0,0,33.33,out,8
+Super Giants Vs Royals,Royals,5,Eoin Morgan,64,37,2,5,172.97,out,8
+Super Giants Vs Royals,Royals,6,Dane Vilas,44,30,3,2,146.66,out,8
+Super Giants Vs Royals,Royals,7,Evan Jones,0,1,0,0,0,out,8
+Super Giants Vs Royals,Royals,8,Ferisco Adams,2,3,0,0,66.66,out,8
+Super Giants Vs Royals,Royals,9,Bjorn Fortuin,6,4,1,0,150,not_out,8
+Super Giants Vs Royals,Royals,10,Imran Manack,4,3,0,0,133.33,not_out,8
+Super Giants Vs Capitals,Super Giants,1,Quinton de Kock(c),43,20,5,3,215,out,28
+Super Giants Vs Capitals,Super Giants,2,Ben McDermott,41,24,5,3,170.83,out,28
+Super Giants Vs Capitals,Super Giants,3,Heinrich Klaasen†,104,44,10,6,236.36,not_out,28
+Super Giants Vs Capitals,Super Giants,4,David Willey,1,2,0,0,50,out,28
+Super Giants Vs Capitals,Super Giants,5,Wiaan Mulder,9,9,1,0,100,out,28
+Super Giants Vs Capitals,Super Giants,6,Matthew Breetzke,46,21,5,3,219.04,not_out,28
+Super Giants Vs Capitals,Capitals,1,Phil Salt,1,3,0,0,33.33,out,28
+Super Giants Vs Capitals,Capitals,2,Kusal Mendis†,10,9,1,1,111.11,out,28
+Super Giants Vs Capitals,Capitals,3,Theunis de Bruyn(c),16,13,1,1,123.07,out,28
+Super Giants Vs Capitals,Capitals,4,Rilee Rossouw,18,12,3,1,150,out,28
+Super Giants Vs Capitals,Capitals,5,Colin Ingram,4,11,0,0,36.36,out,28
+Super Giants Vs Capitals,Capitals,6,James Neesham,8,4,0,1,200,out,28
+Super Giants Vs Capitals,Capitals,7,Senuran Muthusamy,9,8,1,0,112.5,out,28
+Super Giants Vs Capitals,Capitals,8,Migael Pretorius,2,3,0,0,66.66,out,28
+Super Giants Vs Capitals,Capitals,9,Eathan Bosch,23,13,1,2,176.92,out,28
+Super Giants Vs Capitals,Capitals,10,Daryn Dupavillon,5,6,1,0,83.33,out,28
+Super Giants Vs Capitals,Capitals,11,Josh Little,0,1,0,0,0,not_out,28
+Capitals Vs Royals,Capitals,1,Kusal Mendis†,37,26,5,1,142.3,out,18
+Capitals Vs Royals,Capitals,2,Will Jacks,4,3,1,0,133.33,out,18
+Capitals Vs Royals,Capitals,3,Theunis de Bruyn,53,47,3,1,112.76,out,18
+Capitals Vs Royals,Capitals,4,Rilee Rossouw,19,13,3,0,146.15,out,18
+Capitals Vs Royals,Capitals,5,Shane Dadswell,2,5,0,0,40,out,18
+Capitals Vs Royals,Capitals,6,James Neesham,21,17,2,0,123.52,not_out,18
+Capitals Vs Royals,Capitals,7,Eathan Bosch,5,8,0,0,62.5,out,18
+Capitals Vs Royals,Capitals,8,Wayne Parnell(c),5,2,1,0,250,not_out,18
+Capitals Vs Royals,Royals,1,Jason Roy,21,16,3,0,131.25,out,18
+Capitals Vs Royals,Royals,2,Wihan Lubbe,29,22,2,1,131.81,out,18
+Capitals Vs Royals,Royals,3,Jos Buttler†,37,28,4,0,132.14,out,18
+Capitals Vs Royals,Royals,4,Dane Vilas,24,26,3,0,92.3,out,18
+Capitals Vs Royals,Royals,5,David Miller(c),28,14,4,0,200,not_out,18
+Capitals Vs Royals,Royals,6,Mitchell Van Buuren,12,12,2,0,100,not_out,18
+Super Kings Vs Capitals,Super Kings,1,Reeza Hendricks,0,1,0,0,0,out,13
+Super Kings Vs Capitals,Super Kings,2,Faf du Plessis(c),51,22,9,2,231.81,out,13
+Super Kings Vs Capitals,Super Kings,3,Leus du Plooy,14,12,1,1,116.66,out,13
+Super Kings Vs Capitals,Super Kings,4,Kyle Verreynne†,3,6,0,0,50,out,13
+Super Kings Vs Capitals,Super Kings,5,Lewis Gregory,0,2,0,0,0,out,13
+Super Kings Vs Capitals,Super Kings,6,Donovan Ferreira,17,13,1,1,130.76,out,13
+Super Kings Vs Capitals,Super Kings,7,Romario Shepherd,2,7,0,0,28.57,out,13
+Super Kings Vs Capitals,Super Kings,8,Gerald Coetzee,0,2,0,0,0,out,13
+Super Kings Vs Capitals,Super Kings,9,Alzarri Joseph,5,5,1,0,100,out,13
+Super Kings Vs Capitals,Super Kings,10,Aaron Phangiso,19,10,1,2,190,not_out,13
+Super Kings Vs Capitals,Super Kings,11,Nandre Burger,2,16,0,0,12.5,out,13
+Super Kings Vs Capitals,Capitals,1,Phil Salt†,52,30,6,1,173.33,not_out,13
+Super Kings Vs Capitals,Capitals,2,Will Jacks,34,16,4,2,212.5,out,13
+Super Kings Vs Capitals,Capitals,3,Theunis de Bruyn,0,2,0,0,0,out,13
+Super Kings Vs Capitals,Capitals,4,Rilee Rossouw,11,7,1,1,157.14,out,13
+Super Kings Vs Capitals,Capitals,5,Shane Dadswell,18,22,2,0,81.81,out,13
+Super Kings Vs Capitals,Capitals,6,James Neesham,1,1,0,0,100,not_out,13
+Capitals Vs Royals,Capitals,1,Phil Salt†,22,21,3,0,104.76,out,31
+Capitals Vs Royals,Capitals,2,Kusal Mendis,7,11,1,0,63.63,out,31
+Capitals Vs Royals,Capitals,3,Theunis de Bruyn(c),9,12,0,0,75,out,31
+Capitals Vs Royals,Capitals,4,Rilee Rossouw,56,41,5,3,136.58,out,31
+Capitals Vs Royals,Capitals,5,Colin Ingram,10,14,1,0,71.42,out,31
+Capitals Vs Royals,Capitals,6,James Neesham,4,5,0,0,80,out,31
+Capitals Vs Royals,Capitals,7,Eathan Bosch,22,10,3,1,220,out,31
+Capitals Vs Royals,Capitals,8,Senuran Muthusamy,1,3,0,0,33.33,not_out,31
+Capitals Vs Royals,Capitals,9,Migael Pretorius,0,0,0,0,-,out,31
+Capitals Vs Royals,Capitals,10,Adil Rashid,8,4,2,0,200,not_out,31
+Capitals Vs Royals,Royals,1,Jason Roy,0,2,0,0,0,out,31
+Capitals Vs Royals,Royals,2,Paul Stirling,21,14,3,1,150,out,31
+Capitals Vs Royals,Royals,3,Jos Buttler†,13,8,1,1,162.5,out,31
+Capitals Vs Royals,Royals,4,Dane Vilas,18,22,2,0,81.81,out,31
+Capitals Vs Royals,Royals,5,Eoin Morgan,17,13,3,0,130.76,out,31
+Capitals Vs Royals,Royals,6,David Miller(c),31,27,2,1,114.81,out,31
+Capitals Vs Royals,Royals,7,Evan Jones,0,7,0,0,0,out,31
+Capitals Vs Royals,Royals,8,Andile Phehlukwayo,14,13,3,0,107.69,out,31
+Capitals Vs Royals,Royals,9,Bjorn Fortuin,2,4,0,0,50,out,31
+Capitals Vs Royals,Royals,10,Lungi Ngidi,0,1,0,0,0,not_out,31
+Capitals Vs Royals,Royals,11,Tabraiz Shamsi,0,3,0,0,0,out,31
+MI Cape Town Vs Super Giants,MI Cape Town,1,Dewald Brevis,0,2,0,0,0,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,2,Ryan Rickelton,14,14,1,1,100,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,3,Grant Roelofsen†,52,44,4,1,118.18,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,4,Rassie van der Dussen,1,3,0,0,33.33,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,5,Sam Curran,0,3,0,0,0,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,6,George Linde,33,25,0,4,132,out,5
+MI Cape Town Vs Super Giants,MI Cape Town,7,Duan Jansen,7,5,1,0,140,not_out,5
+MI Cape Town Vs Super Giants,MI Cape Town,8,Rashid Khan(c),14,13,1,1,107.69,out,23
+MI Cape Town Vs Super Giants,MI Cape Town,9,Delano Potgieter,25,11,0,3,227.27,out,23
+MI Cape Town Vs Super Giants,Super Giants,1,Kyle Mayers,34,23,4,2,147.82,out,5
+MI Cape Town Vs Super Giants,Super Giants,2,Quinton de Kock(c)†,11,8,2,0,137.5,out,5
+MI Cape Town Vs Super Giants,Super Giants,3,Wiaan Mulder,30,26,4,0,115.38,out,5
+MI Cape Town Vs Super Giants,Super Giants,4,Heinrich Klaasen,36,22,4,1,163.63,out,5
+MI Cape Town Vs Super Giants,Super Giants,5,Jason Holder,11,10,0,1,110,not_out,5
+MI Cape Town Vs Super Giants,Super Giants,6,Dwaine Pretorius,0,2,0,0,0,out,5
+MI Cape Town Vs Super Giants,Super Giants,7,Keemo Paul,20,8,0,3,250,not_out,5
+Capitals Vs MI Cape Town,Capitals,1,Kusal Mendis†,29,19,4,1,152.63,out,20
+Capitals Vs MI Cape Town,Capitals,2,Will Jacks,62,27,5,5,229.62,out,20
+Capitals Vs MI Cape Town,Capitals,3,Rilee Rossouw,1,5,0,0,20,out,20
+Capitals Vs MI Cape Town,Capitals,4,Theunis de Bruyn,36,26,2,2,138.46,out,20
+Capitals Vs MI Cape Town,Capitals,5,Senuran Muthusamy,3,4,0,0,75,out,20
+Capitals Vs MI Cape Town,Capitals,6,Clyde Fortuin,11,14,0,0,78.57,out,20
+Capitals Vs MI Cape Town,Capitals,7,James Neesham,22,18,3,0,122.22,not_out,20
+Capitals Vs MI Cape Town,Capitals,8,Wayne Parnell(c),1,2,0,0,50,out,20
+Capitals Vs MI Cape Town,Capitals,9,Eathan Bosch,7,5,1,0,140,out,20
+Capitals Vs MI Cape Town,Capitals,10,Adil Rashid,1,1,0,0,100,not_out,20
+Capitals Vs MI Cape Town,MI Cape Town,1,Dewald Brevis,46,30,4,3,153.33,out,20
+Capitals Vs MI Cape Town,MI Cape Town,2,Ryan Rickelton,11,11,2,0,100,out,20
+Capitals Vs MI Cape Town,MI Cape Town,3,Sam Curran,22,18,3,1,122.22,out,20
+Capitals Vs MI Cape Town,MI Cape Town,4,Rassie van der Dussen,24,25,0,1,96,out,20
+Capitals Vs MI Cape Town,MI Cape Town,5,George Linde,6,5,1,0,120,out,20
+Capitals Vs MI Cape Town,MI Cape Town,6,Grant Roelofsen†,4,5,0,0,80,out,20
+Capitals Vs MI Cape Town,MI Cape Town,7,Odean Smith,1,6,0,0,16.66,out,20
+Capitals Vs MI Cape Town,MI Cape Town,8,Rashid Khan(c),2,3,0,0,66.66,out,20
+Capitals Vs MI Cape Town,MI Cape Town,9,Delano Potgieter,1,1,0,0,100,not_out,20
+Capitals Vs MI Cape Town,MI Cape Town,10,Jofra Archer,1,2,0,0,50,out,20
+Capitals Vs MI Cape Town,MI Cape Town,11,Kagiso Rabada,1,3,0,0,33.33,out,20
+Capitals Vs Royals,Capitals,1,Phil Salt†,39,21,3,3,185.71,out,30
+Capitals Vs Royals,Capitals,2,Kusal Mendis,80,41,8,4,195.12,out,30
+Capitals Vs Royals,Capitals,3,Theunis de Bruyn(c),12,14,0,0,85.71,out,30
+Capitals Vs Royals,Capitals,4,Rilee Rossouw,13,13,1,0,100,out,30
+Capitals Vs Royals,Capitals,5,Colin Ingram,41,21,4,2,195.23,out,30
+Capitals Vs Royals,Capitals,6,James Neesham,22,11,2,1,200,not_out,30
+Capitals Vs Royals,Royals,1,Jason Roy,10,10,0,1,100,out,30
+Capitals Vs Royals,Royals,2,Paul Stirling,19,10,3,1,190,out,30
+Capitals Vs Royals,Royals,3,Jos Buttler†,70,45,4,5,155.55,out,30
+Capitals Vs Royals,Royals,4,Mitchell Van Buuren,5,6,0,0,83.33,out,30
+Capitals Vs Royals,Royals,5,Eoin Morgan,24,12,3,1,200,out,30
+Capitals Vs Royals,Royals,6,David Miller(c),11,17,1,0,64.7,out,30
+Capitals Vs Royals,Royals,7,Andile Phehlukwayo,3,5,0,0,60,out,30
+Capitals Vs Royals,Royals,8,Evan Jones,0,2,0,0,0,out,30
+Capitals Vs Royals,Royals,9,Bjorn Fortuin,8,8,1,0,100,out,30
+Capitals Vs Royals,Royals,10,Codi Yusuf,2,2,0,0,100,not_out,30
+Capitals Vs Royals,Royals,11,Lungi Ngidi,2,3,0,0,66.66,not_out,30
+MI Cape Town Vs Capitals,MI Cape Town,1,Rassie van der Dussen,51,29,4,4,175.86,out,26
+MI Cape Town Vs Capitals,MI Cape Town,2,Wesley Marshall,16,13,3,0,123.07,out,26
+MI Cape Town Vs Capitals,MI Cape Town,3,Grant Roelofsen†,8,9,1,0,88.88,out,26
+MI Cape Town Vs Capitals,MI Cape Town,4,Dewald Brevis,14,11,0,2,127.27,out,26
+MI Cape Town Vs Capitals,MI Cape Town,5,George Linde,14,18,0,1,77.77,out,26
+MI Cape Town Vs Capitals,MI Cape Town,6,Tim David,2,4,0,0,50,out,26
+MI Cape Town Vs Capitals,MI Cape Town,7,Duan Jansen,8,5,1,0,160,out,26
+MI Cape Town Vs Capitals,MI Cape Town,8,Sam Curran,5,8,0,0,62.5,out,26
+MI Cape Town Vs Capitals,MI Cape Town,9,Odean Smith,7,10,1,0,70,out,26
+MI Cape Town Vs Capitals,MI Cape Town,10,Rashid Khan(c),14,9,1,1,155.55,not_out,26
+MI Cape Town Vs Capitals,MI Cape Town,11,Kagiso Rabada,6,3,1,0,200,out,26
+MI Cape Town Vs Capitals,Capitals,1,Phil Salt†,9,9,1,0,100,out,26
+MI Cape Town Vs Capitals,Capitals,2,Kusal Mendis,39,25,7,1,156,out,26
+MI Cape Town Vs Capitals,Capitals,3,Theunis de Bruyn,1,2,0,0,50,out,26
+MI Cape Town Vs Capitals,Capitals,4,Rilee Rossouw,40,19,2,4,210.52,out,26
+MI Cape Town Vs Capitals,Capitals,5,Shane Dadswell,16,24,1,0,66.66,out,26
+MI Cape Town Vs Capitals,Capitals,6,James Neesham,0,2,0,0,0,out,26
+MI Cape Town Vs Capitals,Capitals,7,Senuran Muthusamy,25,23,2,2,108.69,out,26
+MI Cape Town Vs Capitals,Capitals,8,Eathan Bosch,3,6,0,0,50,out,26
+MI Cape Town Vs Capitals,Capitals,9,Anrich Nortje,10,5,2,0,200,out,26
+MI Cape Town Vs Capitals,Capitals,10,Wayne Parnell(c),2,3,0,0,66.66,not_out,26
+MI Cape Town Vs Capitals,Capitals,11,Josh Little,2,3,0,0,66.66,not_out,26
+MI Cape Town Vs Eastern Cape,MI Cape Town,1,Dewald Brevis,15,28,1,0,53.57,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,2,Ryan Rickelton,7,7,1,0,100,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,3,Grant Roelofsen†,8,7,2,0,114.28,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,4,Sam Curran,8,10,0,0,80,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,5,Rassie van der Dussen,29,22,4,1,131.81,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,6,George Linde,63,28,4,5,225,not_out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,7,Odean Smith,10,8,0,1,125,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,8,Delano Potgieter,2,4,0,0,50,out,9
+MI Cape Town Vs Eastern Cape,MI Cape Town,9,Rashid Khan(c),5,6,1,0,83.33,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,1,Adam Rossington†,0,1,0,0,0,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,2,JJ Smuts,8,7,2,0,114.28,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,3,Sarel Erwee,41,35,3,2,117.14,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),50,35,7,0,142.85,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,30,18,2,1,166.66,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,6,Jordan Cox,1,2,0,0,50,out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,7,Marco Jansen,16,17,0,1,94.11,not_out,9
+MI Cape Town Vs Eastern Cape,Eastern Cape,8,James Fuller,8,2,2,0,400,not_out,9
+Royals Vs Eastern Cape,Royals,1,Jason Roy,6,6,1,0,100,out,14
+Royals Vs Eastern Cape,Royals,2,Jos Buttler†,12,9,2,0,133.33,out,14
+Royals Vs Eastern Cape,Royals,3,Wihan Lubbe,28,21,2,1,133.33,out,14
+Royals Vs Eastern Cape,Royals,4,Corbin Bosch,20,29,0,0,68.96,out,14
+Royals Vs Eastern Cape,Royals,5,Eoin Morgan,2,5,0,0,40,out,14
+Royals Vs Eastern Cape,Royals,6,David Miller(c),10,9,1,0,111.11,out,14
+Royals Vs Eastern Cape,Royals,7,Evan Jones,11,11,0,0,100,out,14
+Royals Vs Eastern Cape,Royals,8,Bjorn Fortuin,14,17,1,0,82.35,not_out,14
+Royals Vs Eastern Cape,Royals,9,Codi Yusuf,12,13,0,0,92.3,not_out,14
+Royals Vs Eastern Cape,Eastern Cape,1,Adam Rossington†,20,12,4,0,166.66,out,14
+Royals Vs Eastern Cape,Eastern Cape,2,Jordan Hermann,43,39,3,2,110.25,out,14
+Royals Vs Eastern Cape,Eastern Cape,3,Sarel Erwee,0,1,0,0,0,out,14
+Royals Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),23,23,1,1,100,out,14
+Royals Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,18,12,0,1,150,not_out,14
+Royals Vs Eastern Cape,Eastern Cape,6,Jordan Cox,0,1,0,0,0,out,14
+Royals Vs Eastern Cape,Eastern Cape,7,Marco Jansen,21,22,1,1,95.45,not_out,14
+Eastern Cape Vs Royals,Eastern Cape,1,Adam Rossington†,4,5,1,0,80,out,21
+Eastern Cape Vs Royals,Eastern Cape,2,Jordan Hermann,4,10,0,0,40,out,21
+Eastern Cape Vs Royals,Eastern Cape,3,JJ Smuts,65,49,9,0,132.65,out,21
+Eastern Cape Vs Royals,Eastern Cape,4,Aiden Markram(c),15,19,0,0,78.94,out,21
+Eastern Cape Vs Royals,Eastern Cape,5,Tristan Stubbs,18,17,3,0,105.88,out,21
+Eastern Cape Vs Royals,Eastern Cape,6,Marco Jansen,13,10,0,1,130,out,21
+Eastern Cape Vs Royals,Eastern Cape,7,James Fuller,1,4,0,0,25,out,21
+Eastern Cape Vs Royals,Eastern Cape,8,Brydon Carse,4,4,0,0,100,not_out,21
+Eastern Cape Vs Royals,Eastern Cape,9,Sarel Erwee,1,2,0,0,50,not_out,21
+Eastern Cape Vs Royals,Royals,1,Jason Roy,8,16,0,0,50,out,21
+Eastern Cape Vs Royals,Royals,2,Jos Buttler†,51,39,4,2,130.76,out,21
+Eastern Cape Vs Royals,Royals,3,Wihan Lubbe,2,4,0,0,50,out,21
+Eastern Cape Vs Royals,Royals,4,Mitchell Van Buuren,14,15,0,1,93.33,out,21
+Eastern Cape Vs Royals,Royals,5,Andile Phehlukwayo,4,7,0,0,57.14,out,21
+Eastern Cape Vs Royals,Royals,6,David Miller(c),37,23,0,4,160.86,not_out,21
+Eastern Cape Vs Royals,Royals,7,Dane Vilas,12,10,1,0,120,not_out,21
+Eastern Cape Vs Info,Eastern Cape,1,Adam Rossington†,35,18,5,2,194.44,not_out,
+Eastern Cape Vs Info,Eastern Cape,2,Temba Bavuma,0,1,0,0,0,out,
+Eastern Cape Vs Info,Eastern Cape,3,Jordan Hermann,0,1,0,0,0,out,
+Eastern Cape Vs Info,Eastern Cape,4,Aiden Markram(c),6,9,1,0,66.66,out,
+Eastern Cape Vs Info,Eastern Cape,5,JJ Smuts,9,4,2,0,225,not_out,
+Eastern Cape Vs Super Kings,Eastern Cape,1,Adam Rossington†,40,31,4,2,129.03,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,2,Jordan Hermann,3,5,0,0,60,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,3,Sarel Erwee,0,2,0,0,0,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,4,Aiden Markram(c),5,8,0,0,62.5,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,5,Tristan Stubbs,4,10,0,0,40,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,6,JJ Smuts,22,18,2,0,122.22,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,7,Marco Jansen,6,5,1,0,120,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,8,James Fuller,27,20,3,0,135,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,9,Brydon Carse,11,10,0,1,110,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,10,Roelof van der Merwe,4,4,0,0,100,out,17
+Eastern Cape Vs Super Kings,Eastern Cape,11,Sisanda Magala,1,1,0,0,100,not_out,17
+Eastern Cape Vs Super Kings,Super Kings,1,Reeza Hendricks,6,7,1,0,85.71,out,17
+Eastern Cape Vs Super Kings,Super Kings,2,Faf du Plessis(c),37,38,4,0,97.36,out,17
+Eastern Cape Vs Super Kings,Super Kings,3,Neil Brand,16,16,2,0,100,out,17
+Eastern Cape Vs Super Kings,Super Kings,4,Leus du Plooy,47,40,6,0,117.5,not_out,17
+Eastern Cape Vs Super Kings,Super Kings,5,Sibonelo Makhanya,1,2,0,0,50,out,17
+Eastern Cape Vs Super Kings,Super Kings,6,Donovan Ferreira†,4,8,0,0,50,out,17
+Eastern Cape Vs Super Kings,Super Kings,7,Romario Shepherd,7,9,0,0,77.77,not_out,17
+Super Kings Vs Eastern Cape,Super Kings,1,Faf du Plessis(c),92,61,7,4,150.81,out,27
+Super Kings Vs Eastern Cape,Super Kings,2,Reeza Hendricks,40,36,5,0,111.11,out,27
+Super Kings Vs Eastern Cape,Super Kings,3,Matthew Wade†,7,5,1,0,140,out,27
+Super Kings Vs Eastern Cape,Super Kings,4,Donovan Ferreira,2,2,0,0,100,out,27
+Super Kings Vs Eastern Cape,Super Kings,5,Leus du Plooy,5,6,0,0,83.33,out,27
+Super Kings Vs Eastern Cape,Super Kings,6,Romario Shepherd,2,3,0,0,66.66,out,27
+Super Kings Vs Eastern Cape,Super Kings,7,Sibonelo Makhanya,6,3,1,0,200,not_out,27
+Super Kings Vs Eastern Cape,Super Kings,8,Gerald Coetzee,3,4,0,0,75,not_out,27
+Super Kings Vs Eastern Cape,Eastern Cape,1,Adam Rossington†,1,3,0,0,33.33,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,2,Temba Bavuma,50,34,5,2,147.05,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,3,Jordan Hermann,5,11,0,0,45.45,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,4,JJ Smuts,0,5,0,0,0,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,5,Aiden Markram(c),34,30,2,1,113.33,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,6,Tristan Stubbs,5,7,0,0,71.42,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,7,Marco Jansen,0,1,0,0,0,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,8,James Fuller,2,2,0,0,100,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,9,Brydon Carse,11,12,0,1,91.66,out,27
+Super Kings Vs Eastern Cape,Eastern Cape,10,Roelof van der Merwe,16,13,1,0,123.07,not_out,27
+Super Kings Vs Eastern Cape,Eastern Cape,11,Sisanda Magala,1,2,0,0,50,not_out,27
+Royals Vs Super Giants,Royals,1,Jason Roy,3,13,0,0,23.07,out,10
+Royals Vs Super Giants,Royals,2,Jos Buttler†,35,27,2,1,129.62,out,10
+Royals Vs Super Giants,Royals,3,Wihan Lubbe,57,36,5,3,158.33,out,10
+Royals Vs Super Giants,Royals,4,Dane Vilas,12,9,0,0,133.33,out,10
+Royals Vs Super Giants,Royals,5,David Miller(c),28,19,2,1,147.36,out,10
+Royals Vs Super Giants,Royals,6,Eoin Morgan,2,6,0,0,33.33,out,10
+Royals Vs Super Giants,Royals,7,Evan Jones,6,6,1,0,100,not_out,10
+Royals Vs Super Giants,Royals,8,Ferisco Adams,10,4,0,1,250,not_out,10
+Royals Vs Super Giants,Super Giants,1,Kyle Mayers,12,11,2,0,109.09,out,10
+Royals Vs Super Giants,Super Giants,2,Wiaan Mulder,29,24,2,2,120.83,out,10
+Royals Vs Super Giants,Super Giants,3,Quinton de Kock(c)†,0,2,0,0,0,out,10
+Royals Vs Super Giants,Super Giants,4,Dwaine Pretorius,0,1,0,0,0,out,10
+Royals Vs Super Giants,Super Giants,5,Heinrich Klaasen,56,39,2,2,143.58,not_out,10
+Royals Vs Super Giants,Super Giants,6,Jason Holder,17,12,1,1,141.66,out,10
+Royals Vs Super Giants,Super Giants,7,Christiaan Jonker,12,13,1,0,92.3,out,10
+Royals Vs Super Giants,Super Giants,8,Keshav Maharaj,17,10,3,0,170,out,10
+Royals Vs Super Giants,Super Giants,9,Hardus Viljoen,0,1,0,0,0,out,10
+Royals Vs Super Giants,Super Giants,10,Prenelan Subrayen,6,7,0,0,85.71,not_out,10
+Capitals Vs Eastern Cape,Capitals,1,Phil Salt†,1,2,0,0,50,out,6
+Capitals Vs Eastern Cape,Capitals,2,Will Jacks,92,46,7,8,200,out,6
+Capitals Vs Eastern Cape,Capitals,3,Rilee Rossouw,20,15,3,1,133.33,out,6
+Capitals Vs Eastern Cape,Capitals,4,Theunis de Bruyn,42,23,2,4,182.6,out,6
+Capitals Vs Eastern Cape,Capitals,5,James Neesham,18,10,2,1,180,out,6
+Capitals Vs Eastern Cape,Capitals,6,Shane Dadswell,20,14,1,1,142.85,not_out,6
+Capitals Vs Eastern Cape,Capitals,7,Wayne Parnell(c),0,1,0,0,0,out,6
+Capitals Vs Eastern Cape,Capitals,8,Migael Pretorius,11,10,0,1,110,not_out,6
+Capitals Vs Eastern Cape,Eastern Cape,1,Sarel Erwee,8,5,0,1,160,out,6
+Capitals Vs Eastern Cape,Eastern Cape,2,JJ Smuts,28,25,3,1,112,out,6
+Capitals Vs Eastern Cape,Eastern Cape,3,Jordan Cox†,0,1,0,0,0,out,6
+Capitals Vs Eastern Cape,Eastern Cape,4,Aiden Markram(c),46,29,5,2,158.62,out,6
+Capitals Vs Eastern Cape,Eastern Cape,5,Tristan Stubbs,12,10,1,0,120,out,6
+Capitals Vs Eastern Cape,Eastern Cape,6,Marques Ackerman,8,9,0,0,88.88,out,6
+Capitals Vs Eastern Cape,Eastern Cape,7,James Fuller,11,9,1,0,122.22,out,6
+Capitals Vs Eastern Cape,Eastern Cape,8,Marco Jansen,36,20,2,3,180,not_out,6
+Capitals Vs Eastern Cape,Eastern Cape,9,Brydon Carse,26,13,3,1,200,not_out,6

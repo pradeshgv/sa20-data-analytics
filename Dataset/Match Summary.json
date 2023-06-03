@@ -1,0 +1,301 @@
+{
+  "matchSummary": [
+    {
+      "team1": "MI Cape Town",
+      "team2": "Paarl Royals",
+      "winner": "MI Cape Town",
+      "margin": "8 wickets",
+      "ground": "Cape Town",
+      "matchDate": "Jan 10, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Giants",
+      "team2": "Super Kings",
+      "winner": "Super Kings",
+      "margin": "16 runs",
+      "ground": "Durban",
+      "matchDate": "Jan 11, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Eastern Cape",
+      "team2": "Capitals",
+      "winner": "Capitals",
+      "margin": "23 runs",
+      "ground": "Gqeberha",
+      "matchDate": "Jan 12, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Paarl Royals",
+      "team2": "Super Kings",
+      "winner": "Paarl Royals",
+      "margin": "7 wickets",
+      "ground": "Paarl",
+      "matchDate": "Jan 13, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "MI Cape Town",
+      "team2": "Super Giants",
+      "winner": "Super Giants",
+      "margin": "5 wickets",
+      "ground": "Cape Town",
+      "matchDate": "Jan 13, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Eastern Cape",
+      "winner": "Capitals",
+      "margin": "37 runs",
+      "ground": "Centurion",
+      "matchDate": "Jan 14, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "MI Cape Town",
+      "team2": "Super Kings",
+      "winner": "MI Cape Town",
+      "margin": "7 wickets",
+      "ground": "Cape Town",
+      "matchDate": "Jan 14, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Giants",
+      "team2": "Paarl Royals",
+      "winner": "Super Giants",
+      "margin": "27 runs",
+      "ground": "Durban",
+      "matchDate": "Jan 15, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Eastern Cape",
+      "team2": "MI Cape Town",
+      "winner": "Eastern Cape",
+      "margin": "4 wickets",
+      "ground": "Gqeberha",
+      "matchDate": "Jan 16, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Paarl Royals",
+      "team2": "Super Giants",
+      "winner": "Paarl Royals",
+      "margin": "10 runs",
+      "ground": "Paarl",
+      "matchDate": "Jan 17, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "Capitals",
+      "winner": "Super Kings",
+      "margin": "6 runs",
+      "ground": "Johannesburg",
+      "matchDate": "Jan 17, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "MI Cape Town",
+      "team2": "Eastern Cape",
+      "winner": "Eastern Cape",
+      "margin": "2 wickets",
+      "ground": "Cape Town",
+      "matchDate": "Jan 18, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Super Kings",
+      "winner": "Capitals",
+      "margin": "6 wickets",
+      "ground": "Centurion",
+      "matchDate": "Jan 18, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Paarl Royals",
+      "team2": "Eastern Cape",
+      "winner": "Eastern Cape",
+      "margin": "5 wickets",
+      "ground": "Paarl",
+      "matchDate": "Jan 19, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Giants",
+      "team2": "Capitals",
+      "winner": "Capitals",
+      "margin": "8 wickets",
+      "ground": "Durban",
+      "matchDate": "Jan 20, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Paarl Royals",
+      "team2": "MI Cape Town",
+      "winner": "MI Cape Town",
+      "margin": "13 runs",
+      "ground": "Paarl",
+      "matchDate": "Jan 21, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Eastern Cape",
+      "team2": "Super Kings",
+      "winner": "Super Kings",
+      "margin": "5 wickets",
+      "ground": "Gqeberha",
+      "matchDate": "Jan 21, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Paarl Royals",
+      "team2": "Capitals",
+      "winner": "Paarl Royals",
+      "margin": "6 wickets",
+      "ground": "Paarl",
+      "matchDate": "Jan 22, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Eastern Cape",
+      "team2": "Super Giants",
+      "winner": "Eastern Cape",
+      "margin": "124 runs",
+      "ground": "Gqeberha",
+      "matchDate": "Jan 22, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "MI Cape Town",
+      "team2": "Capitals",
+      "winner": "Capitals",
+      "margin": "52 runs",
+      "ground": "Cape Town",
+      "matchDate": "Jan 23, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Eastern Cape",
+      "team2": "Paarl Royals",
+      "winner": "Paarl Royals",
+      "margin": "5 wickets",
+      "ground": "Gqeberha",
+      "matchDate": "Jan 24, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "Super Giants",
+      "winner": "Super Kings",
+      "margin": "8 wickets",
+      "ground": "Johannesburg",
+      "matchDate": "Jan 24, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Giants",
+      "team2": "MI Cape Town",
+      "winner": "Super Giants",
+      "margin": "5 wickets",
+      "ground": "Durban",
+      "matchDate": "Feb 2, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "Paarl Royals",
+      "winner": "no result",
+      "margin": "",
+      "ground": "Johannesburg",
+      "matchDate": "Feb 3, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Giants",
+      "team2": "Eastern Cape",
+      "winner": "no result",
+      "margin": "",
+      "ground": "Durban",
+      "matchDate": "Feb 3, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "MI Cape Town",
+      "winner": "Capitals",
+      "margin": "1 wicket",
+      "ground": "Centurion",
+      "matchDate": "Feb 4, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "Eastern Cape",
+      "winner": "Super Kings",
+      "margin": "24 runs",
+      "ground": "Johannesburg",
+      "matchDate": "Feb 5, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Super Giants",
+      "winner": "Super Giants",
+      "margin": "151 runs",
+      "ground": "Centurion",
+      "matchDate": "Feb 5, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "MI Cape Town",
+      "winner": "Super Kings",
+      "margin": "76 runs",
+      "ground": "Johannesburg",
+      "matchDate": "Feb 6, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Paarl Royals",
+      "winner": "Capitals",
+      "margin": "59 runs",
+      "ground": "Centurion",
+      "matchDate": "Feb 7, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Paarl Royals",
+      "winner": "Capitals",
+      "margin": "29 runs",
+      "ground": "Johannesburg",
+      "matchDate": "Feb 8, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Super Kings",
+      "team2": "Eastern Cape",
+      "winner": "Eastern Cape",
+      "margin": "14 runs",
+      "ground": "Centurion",
+      "matchDate": "Feb 9, 2023",
+      "scorecard": "T20"
+    },
+    {
+      "team1": "Capitals",
+      "team2": "Eastern Cape",
+      "winner": "Eastern Cape",
+      "margin": "4 wickets",
+      "ground": "Johannesburg",
+      "matchDate": "Feb 11-12, 2023",
+      "scorecard": "T20"
+    }
+  ]
+}
